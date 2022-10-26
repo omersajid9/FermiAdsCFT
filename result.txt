@@ -1,0 +1,12100 @@
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.724
+Iterations
+100
+Accepted
+69
+Acceptance rate
+0.69
+Deviation
+1.0
+Beta
+2.2625
+Lowest Energy
+-0.8534
+Iterations
+200
+Accepted
+133
+Acceptance rate
+0.665
+Deviation
+0.6666666666666666
+Beta
+3.6500000000000004
+Lowest Energy
+-0.7377
+Iterations
+300
+Accepted
+188
+Acceptance rate
+0.6266666666666667
+Deviation
+0.5
+Beta
+4.475
+Lowest Energy
+-2.2121
+Iterations
+400
+Accepted
+233
+Acceptance rate
+0.5825
+Deviation
+0.4
+Beta
+6.000000000000001
+Lowest Energy
+-1.7936999999999999
+Iterations
+500
+Accepted
+277
+Acceptance rate
+0.554
+Deviation
+0.3333333333333333
+Beta
+6.375000000000001
+Lowest Energy
+-2.5628
+Iterations
+600
+Accepted
+315
+Acceptance rate
+0.525
+Deviation
+0.2857142857142857
+Beta
+8.3
+Lowest Energy
+-3.1151999999999997
+Iterations
+700
+Accepted
+358
+Acceptance rate
+0.5114285714285715
+Deviation
+0.25
+Beta
+9.562500000000002
+Lowest Energy
+-4.2103
+Iterations
+800
+Accepted
+397
+Acceptance rate
+0.49625
+Deviation
+0.2222222222222222
+Beta
+9.950000000000001
+Lowest Energy
+-5.739
+Iterations
+900
+Accepted
+428
+Acceptance rate
+0.47555555555555556
+Deviation
+0.2
+Beta
+10.700000000000001
+Lowest Energy
+-5.2295
+Iterations
+1000
+Accepted
+459
+Acceptance rate
+0.459
+Deviation
+0.18181818181818182
+Beta
+13.500000000000004
+Lowest Energy
+-5.3092
+Iterations
+1100
+Accepted
+485
+Acceptance rate
+0.4409090909090909
+Deviation
+0.16666666666666666
+Beta
+14.312500000000004
+Lowest Energy
+-6.8578
+Iterations
+1200
+Accepted
+512
+Acceptance rate
+0.4266666666666667
+Deviation
+0.15384615384615385
+Beta
+15.500000000000004
+Lowest Energy
+-7.5565
+Iterations
+1300
+Accepted
+537
+Acceptance rate
+0.41307692307692306
+Deviation
+0.14285714285714285
+Beta
+15.0625
+Lowest Energy
+-7.3767
+Iterations
+1400
+Accepted
+569
+Acceptance rate
+0.4064285714285714
+Deviation
+0.13333333333333333
+Beta
+17.875000000000004
+Lowest Energy
+-7.7163
+Iterations
+1500
+Accepted
+601
+Acceptance rate
+0.40066666666666667
+Deviation
+0.125
+Beta
+17.75
+Lowest Energy
+-7.4952
+Iterations
+1600
+Accepted
+634
+Acceptance rate
+0.39625
+Deviation
+0.11764705882352941
+Beta
+17.650000000000002
+Lowest Energy
+-7.5867
+Iterations
+1700
+Accepted
+662
+Acceptance rate
+0.38941176470588235
+Deviation
+0.1111111111111111
+Beta
+21.437500000000004
+Lowest Energy
+-7.5851
+Iterations
+1800
+Accepted
+687
+Acceptance rate
+0.38166666666666665
+Deviation
+0.10526315789473684
+Beta
+19.700000000000003
+Lowest Energy
+-7.836600000000001
+Iterations
+1900
+Accepted
+721
+Acceptance rate
+0.3794736842105263
+Deviation
+0.1
+Beta
+20.962500000000006
+Lowest Energy
+-7.7482
+Iterations
+2000
+Accepted
+750
+Acceptance rate
+0.375
+Deviation
+0.09523809523809523
+Beta
+25.500000000000007
+Lowest Energy
+-7.8925
+Iterations
+2100
+Accepted
+773
+Acceptance rate
+0.3680952380952381
+Deviation
+0.09090909090909091
+Beta
+24.350000000000005
+Lowest Energy
+-8.0586
+Iterations
+2200
+Accepted
+811
+Acceptance rate
+0.36863636363636365
+Deviation
+0.08695652173913043
+Beta
+24.075000000000003
+Lowest Energy
+-7.8566
+Iterations
+2300
+Accepted
+845
+Acceptance rate
+0.3673913043478261
+Deviation
+0.08333333333333333
+Beta
+25.6875
+Lowest Energy
+-8.0076
+Iterations
+2400
+Accepted
+883
+Acceptance rate
+0.36791666666666667
+Deviation
+0.08
+Beta
+27.35
+Lowest Energy
+-7.796
+Iterations
+2500
+Accepted
+918
+Acceptance rate
+0.3672
+Deviation
+0.07692307692307693
+Beta
+26.875
+Lowest Energy
+-8.1644
+Iterations
+2600
+Accepted
+952
+Acceptance rate
+0.36615384615384616
+Deviation
+0.07407407407407407
+Beta
+29.525000000000006
+Lowest Energy
+-8.140699999999999
+Iterations
+2700
+Accepted
+983
+Acceptance rate
+0.36407407407407405
+Deviation
+0.07142857142857142
+Beta
+32.300000000000004
+Lowest Energy
+-8.1342
+Iterations
+2800
+Accepted
+1012
+Acceptance rate
+0.36142857142857143
+Deviation
+0.06896551724137931
+Beta
+29.6
+Lowest Energy
+-8.0324
+Iterations
+2900
+Accepted
+1056
+Acceptance rate
+0.3641379310344828
+Deviation
+0.06666666666666667
+Beta
+31.700000000000003
+Lowest Energy
+-8.0903
+Iterations
+3000
+Accepted
+1092
+Acceptance rate
+0.364
+Deviation
+0.06451612903225806
+Beta
+37.62500000000001
+Lowest Energy
+-8.2416
+Iterations
+3100
+Accepted
+1124
+Acceptance rate
+0.36258064516129035
+Deviation
+0.0625
+Beta
+38.45
+Lowest Energy
+-8.100000000000001
+Iterations
+3200
+Accepted
+1156
+Acceptance rate
+0.36125
+Deviation
+0.06060606060606061
+Beta
+40.05000000000001
+Lowest Energy
+-8.1968
+Iterations
+3300
+Accepted
+1182
+Acceptance rate
+0.35818181818181816
+Deviation
+0.058823529411764705
+Beta
+40.437500000000014
+Lowest Energy
+-8.1552
+Iterations
+3400
+Accepted
+1211
+Acceptance rate
+0.3561764705882353
+Deviation
+0.05714285714285714
+Beta
+39.50000000000001
+Lowest Energy
+-8.3387
+Iterations
+3500
+Accepted
+1243
+Acceptance rate
+0.35514285714285715
+Deviation
+0.05555555555555555
+Beta
+44.12500000000001
+Lowest Energy
+-8.1714
+Iterations
+3600
+Accepted
+1279
+Acceptance rate
+0.3552777777777778
+Deviation
+0.05405405405405406
+Beta
+42.2
+Lowest Energy
+-8.2193
+Iterations
+3700
+Accepted
+1313
+Acceptance rate
+0.35486486486486485
+Deviation
+0.05263157894736842
+Beta
+38.712500000000006
+Lowest Energy
+-8.3278
+Iterations
+3800
+Accepted
+1350
+Acceptance rate
+0.35526315789473684
+Deviation
+0.05128205128205128
+Beta
+40.2
+Lowest Energy
+-8.4041
+Iterations
+3900
+Accepted
+1387
+Acceptance rate
+0.3556410256410256
+Deviation
+0.05
+Beta
+40.737500000000004
+Lowest Energy
+-8.2084
+Iterations
+4000
+Accepted
+1433
+Acceptance rate
+0.35825
+Deviation
+0.04878048780487805
+Beta
+42.25000000000001
+Lowest Energy
+-8.2207
+Iterations
+4100
+Accepted
+1469
+Acceptance rate
+0.35829268292682925
+Deviation
+0.047619047619047616
+Beta
+51.47500000000001
+Lowest Energy
+-8.3391
+Iterations
+4200
+Accepted
+1487
+Acceptance rate
+0.35404761904761906
+Deviation
+0.046511627906976744
+Beta
+47.975
+Lowest Energy
+-8.3187
+Iterations
+4300
+Accepted
+1524
+Acceptance rate
+0.3544186046511628
+Deviation
+0.045454545454545456
+Beta
+52.312500000000014
+Lowest Energy
+-8.2161
+Iterations
+4400
+Accepted
+1551
+Acceptance rate
+0.3525
+Deviation
+0.044444444444444446
+Beta
+51.30000000000001
+Lowest Energy
+-8.2698
+Iterations
+4500
+Accepted
+1590
+Acceptance rate
+0.35333333333333333
+Deviation
+0.043478260869565216
+Beta
+51.87500000000001
+Lowest Energy
+-8.325
+Iterations
+4600
+Accepted
+1615
+Acceptance rate
+0.35108695652173916
+Deviation
+0.0425531914893617
+Beta
+56.45000000000002
+Lowest Energy
+-8.2174
+Iterations
+4700
+Accepted
+1631
+Acceptance rate
+0.34702127659574467
+Deviation
+0.041666666666666664
+Beta
+57.65000000000001
+Lowest Energy
+-8.2019
+Iterations
+4800
+Accepted
+1663
+Acceptance rate
+0.3464583333333333
+Deviation
+0.04081632653061224
+Beta
+51.650000000000006
+Lowest Energy
+-8.2175
+Iterations
+4900
+Accepted
+1685
+Acceptance rate
+0.3438775510204082
+Deviation
+0.04
+Beta
+60.66250000000001
+Lowest Energy
+-8.3031
+Iterations
+5000
+Accepted
+1705
+Acceptance rate
+0.341
+Deviation
+0.0392156862745098
+Beta
+54.37500000000001
+Lowest Energy
+-8.2873
+Iterations
+5100
+Accepted
+1733
+Acceptance rate
+0.33980392156862743
+Deviation
+0.038461538461538464
+Beta
+56.712500000000006
+Lowest Energy
+-8.3571
+Iterations
+5200
+Accepted
+1755
+Acceptance rate
+0.3375
+Deviation
+0.03773584905660377
+Beta
+54.55
+Lowest Energy
+-8.382100000000001
+Iterations
+5300
+Accepted
+1770
+Acceptance rate
+0.3339622641509434
+Deviation
+0.037037037037037035
+Beta
+54.25000000000001
+Lowest Energy
+-8.3791
+Iterations
+5400
+Accepted
+1798
+Acceptance rate
+0.33296296296296296
+Deviation
+0.03636363636363636
+Beta
+62.67500000000001
+Lowest Energy
+-8.4306
+Iterations
+5500
+Accepted
+1823
+Acceptance rate
+0.33145454545454545
+Deviation
+0.03571428571428571
+Beta
+63.12500000000001
+Lowest Energy
+-8.4471
+Iterations
+5600
+Accepted
+1844
+Acceptance rate
+0.3292857142857143
+Deviation
+0.03508771929824561
+Beta
+60.750000000000014
+Lowest Energy
+-8.5143
+Iterations
+5700
+Accepted
+1875
+Acceptance rate
+0.32894736842105265
+Deviation
+0.034482758620689655
+Beta
+66.0875
+Lowest Energy
+-8.5389
+Iterations
+5800
+Accepted
+1888
+Acceptance rate
+0.3255172413793103
+Deviation
+0.03389830508474576
+Beta
+62.87500000000001
+Lowest Energy
+-8.4977
+Iterations
+5900
+Accepted
+1908
+Acceptance rate
+0.3233898305084746
+Deviation
+0.03333333333333333
+Beta
+62.462500000000006
+Lowest Energy
+-8.5807
+Iterations
+6000
+Accepted
+1915
+Acceptance rate
+0.31916666666666665
+Deviation
+0.03278688524590164
+Beta
+65.75000000000001
+Lowest Energy
+-8.5944
+Iterations
+6100
+Accepted
+1942
+Acceptance rate
+0.31836065573770495
+Deviation
+0.03225806451612903
+Beta
+63.775000000000006
+Lowest Energy
+-8.4573
+Iterations
+6200
+Accepted
+1956
+Acceptance rate
+0.31548387096774194
+Deviation
+0.031746031746031744
+Beta
+69.45000000000002
+Lowest Energy
+-8.4908
+Iterations
+6300
+Accepted
+1981
+Acceptance rate
+0.31444444444444447
+Deviation
+0.03125
+Beta
+72.91250000000002
+Lowest Energy
+-8.4556
+Iterations
+6400
+Accepted
+1996
+Acceptance rate
+0.311875
+Deviation
+0.03076923076923077
+Beta
+78.85000000000002
+Lowest Energy
+-8.5506
+Iterations
+6500
+Accepted
+2005
+Acceptance rate
+0.30846153846153845
+Deviation
+0.030303030303030304
+Beta
+71.9375
+Lowest Energy
+-8.5695
+Iterations
+6600
+Accepted
+2031
+Acceptance rate
+0.30772727272727274
+Deviation
+0.029850746268656716
+Beta
+78.80000000000001
+Lowest Energy
+-8.59
+Iterations
+6700
+Accepted
+2050
+Acceptance rate
+0.30597014925373134
+Deviation
+0.029411764705882353
+Beta
+68.25
+Lowest Energy
+-8.5451
+Iterations
+6800
+Accepted
+2081
+Acceptance rate
+0.3060294117647059
+Deviation
+0.028985507246376812
+Beta
+80.30000000000001
+Lowest Energy
+-8.4333
+Iterations
+6900
+Accepted
+2112
+Acceptance rate
+0.3060869565217391
+Deviation
+0.02857142857142857
+Beta
+70.25
+Lowest Energy
+-8.4419
+Iterations
+7000
+Accepted
+2134
+Acceptance rate
+0.3048571428571429
+Deviation
+0.028169014084507043
+Beta
+71.25
+Lowest Energy
+-8.5786
+Iterations
+7100
+Accepted
+2145
+Acceptance rate
+0.302112676056338
+Deviation
+0.027777777777777776
+Beta
+84.67500000000001
+Lowest Energy
+-8.6024
+Iterations
+7200
+Accepted
+2145
+Acceptance rate
+0.29791666666666666
+Deviation
+0.0273972602739726
+Beta
+76.85000000000001
+Lowest Energy
+-8.6024
+Iterations
+7300
+Accepted
+2145
+Acceptance rate
+0.29383561643835615
+Deviation
+0.02702702702702703
+Beta
+90.67500000000003
+Lowest Energy
+-8.6024
+Iterations
+7400
+Accepted
+2164
+Acceptance rate
+0.29243243243243244
+Deviation
+0.02666666666666667
+Beta
+75.25
+Lowest Energy
+-8.4954
+Iterations
+7500
+Accepted
+2191
+Acceptance rate
+0.29213333333333336
+Deviation
+0.02631578947368421
+Beta
+80.0
+Lowest Energy
+-8.607800000000001
+Iterations
+7600
+Accepted
+2205
+Acceptance rate
+0.2901315789473684
+Deviation
+0.025974025974025976
+Beta
+80.10000000000002
+Lowest Energy
+-8.5745
+Iterations
+7700
+Accepted
+2223
+Acceptance rate
+0.2887012987012987
+Deviation
+0.02564102564102564
+Beta
+80.17500000000001
+Lowest Energy
+-8.635
+Iterations
+7800
+Accepted
+2225
+Acceptance rate
+0.28525641025641024
+Deviation
+0.02531645569620253
+Beta
+92.9
+Lowest Energy
+-8.6999
+Iterations
+7900
+Accepted
+2226
+Acceptance rate
+0.28177215189873417
+Deviation
+0.025
+Beta
+88.15
+Lowest Energy
+-8.6835
+Iterations
+8000
+Accepted
+2233
+Acceptance rate
+0.279125
+Deviation
+0.024691358024691357
+Beta
+92.25000000000001
+Lowest Energy
+-8.6256
+Iterations
+8100
+Accepted
+2247
+Acceptance rate
+0.2774074074074074
+Deviation
+0.024390243902439025
+Beta
+93.38750000000002
+Lowest Energy
+-8.6349
+Iterations
+8200
+Accepted
+2264
+Acceptance rate
+0.2760975609756098
+Deviation
+0.024096385542168676
+Beta
+93.50000000000001
+Lowest Energy
+-8.6624
+Iterations
+8300
+Accepted
+2265
+Acceptance rate
+0.2728915662650602
+Deviation
+0.023809523809523808
+Beta
+97.73750000000001
+Lowest Energy
+-8.6741
+Iterations
+8400
+Accepted
+2265
+Acceptance rate
+0.26964285714285713
+Deviation
+0.023529411764705882
+Beta
+88.4
+Lowest Energy
+-8.6741
+Iterations
+8500
+Accepted
+2265
+Acceptance rate
+0.2664705882352941
+Deviation
+0.023255813953488372
+Beta
+101.12500000000003
+Lowest Energy
+-8.6741
+Iterations
+8600
+Accepted
+2265
+Acceptance rate
+0.2633720930232558
+Deviation
+0.022988505747126436
+Beta
+91.55000000000001
+Lowest Energy
+-8.6741
+Iterations
+8700
+Accepted
+2265
+Acceptance rate
+0.2603448275862069
+Deviation
+0.022727272727272728
+Beta
+107.82500000000002
+Lowest Energy
+-8.6741
+Iterations
+8800
+Accepted
+2265
+Acceptance rate
+0.25738636363636364
+Deviation
+0.02247191011235955
+Beta
+99.15
+Lowest Energy
+-8.6741
+Iterations
+8900
+Accepted
+2265
+Acceptance rate
+0.25449438202247193
+Deviation
+0.022222222222222223
+Beta
+105.82500000000002
+Lowest Energy
+-8.6741
+Iterations
+9000
+Accepted
+2265
+Acceptance rate
+0.25166666666666665
+Deviation
+0.02197802197802198
+Beta
+99.12500000000001
+Lowest Energy
+-8.6741
+Iterations
+9100
+Accepted
+2268
+Acceptance rate
+0.24923076923076923
+Deviation
+0.021739130434782608
+Beta
+103.625
+Lowest Energy
+-8.606200000000001
+Iterations
+9200
+Accepted
+2283
+Acceptance rate
+0.24815217391304348
+Deviation
+0.021505376344086023
+Beta
+103.60000000000001
+Lowest Energy
+-8.6624
+Iterations
+9300
+Accepted
+2297
+Acceptance rate
+0.24698924731182795
+Deviation
+0.02127659574468085
+Beta
+112.85000000000002
+Lowest Energy
+-8.6624
+Iterations
+9400
+Accepted
+2301
+Acceptance rate
+0.2447872340425532
+Deviation
+0.021052631578947368
+Beta
+109.35000000000002
+Lowest Energy
+-8.668199999999999
+Iterations
+9500
+Accepted
+2308
+Acceptance rate
+0.24294736842105263
+Deviation
+0.020833333333333332
+Beta
+101.00000000000001
+Lowest Energy
+-8.6616
+Iterations
+9600
+Accepted
+2311
+Acceptance rate
+0.24072916666666666
+Deviation
+0.020618556701030927
+Beta
+99.65
+Lowest Energy
+-8.659600000000001
+Iterations
+9700
+Accepted
+2316
+Acceptance rate
+0.23876288659793815
+Deviation
+0.02040816326530612
+Beta
+100.67500000000001
+Lowest Energy
+-8.686399999999999
+Iterations
+9800
+Accepted
+2318
+Acceptance rate
+0.23653061224489796
+Deviation
+0.020202020202020204
+Beta
+112.72500000000001
+Lowest Energy
+-8.7156
+Iterations
+9900
+Accepted
+2318
+Acceptance rate
+0.23414141414141415
+Deviation
+0.02
+Beta
+101.48750000000001
+Lowest Energy
+-8.7156
+Iterations
+10000
+Accepted
+2318
+Acceptance rate
+0.2318
+Deviation
+0.019801980198019802
+Beta
+106.25000000000001
+Lowest Energy
+-8.7156
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.6955
+Iterations
+100
+Accepted
+76
+Acceptance rate
+0.76
+Deviation
+1.0
+Beta
+2.475
+Lowest Energy
+0.4053
+Iterations
+200
+Accepted
+139
+Acceptance rate
+0.695
+Deviation
+0.6666666666666666
+Beta
+3.7000000000000006
+Lowest Energy
+-0.8469
+Iterations
+300
+Accepted
+185
+Acceptance rate
+0.6166666666666667
+Deviation
+0.5
+Beta
+4.362500000000001
+Lowest Energy
+-2.0467999999999997
+Iterations
+400
+Accepted
+222
+Acceptance rate
+0.555
+Deviation
+0.4
+Beta
+5.300000000000001
+Lowest Energy
+-2.8125999999999998
+Iterations
+500
+Accepted
+260
+Acceptance rate
+0.52
+Deviation
+0.3333333333333333
+Beta
+7.250000000000001
+Lowest Energy
+-2.6376
+Iterations
+600
+Accepted
+301
+Acceptance rate
+0.5016666666666667
+Deviation
+0.2857142857142857
+Beta
+7.325
+Lowest Energy
+-3.8786
+Iterations
+700
+Accepted
+334
+Acceptance rate
+0.47714285714285715
+Deviation
+0.25
+Beta
+8.3375
+Lowest Energy
+-4.9026
+Iterations
+800
+Accepted
+361
+Acceptance rate
+0.45125
+Deviation
+0.2222222222222222
+Beta
+9.850000000000001
+Lowest Energy
+-5.6876999999999995
+Iterations
+900
+Accepted
+395
+Acceptance rate
+0.4388888888888889
+Deviation
+0.2
+Beta
+11.712500000000002
+Lowest Energy
+-5.4968
+Iterations
+1000
+Accepted
+428
+Acceptance rate
+0.428
+Deviation
+0.18181818181818182
+Beta
+12.625000000000002
+Lowest Energy
+-6.3405000000000005
+Iterations
+1100
+Accepted
+448
+Acceptance rate
+0.4072727272727273
+Deviation
+0.16666666666666666
+Beta
+12.3875
+Lowest Energy
+-6.716100000000001
+Iterations
+1200
+Accepted
+488
+Acceptance rate
+0.4066666666666667
+Deviation
+0.15384615384615385
+Beta
+14.900000000000002
+Lowest Energy
+-7.3905
+Iterations
+1300
+Accepted
+527
+Acceptance rate
+0.4053846153846154
+Deviation
+0.14285714285714285
+Beta
+15.0625
+Lowest Energy
+-7.4862
+Iterations
+1400
+Accepted
+558
+Acceptance rate
+0.3985714285714286
+Deviation
+0.13333333333333333
+Beta
+17.700000000000003
+Lowest Energy
+-7.0865
+Iterations
+1500
+Accepted
+585
+Acceptance rate
+0.39
+Deviation
+0.125
+Beta
+16.25
+Lowest Energy
+-7.4551
+Iterations
+1600
+Accepted
+620
+Acceptance rate
+0.3875
+Deviation
+0.11764705882352941
+Beta
+19.85
+Lowest Energy
+-7.7199
+Iterations
+1700
+Accepted
+649
+Acceptance rate
+0.38176470588235295
+Deviation
+0.1111111111111111
+Beta
+20.1625
+Lowest Energy
+-7.7618
+Iterations
+1800
+Accepted
+682
+Acceptance rate
+0.3788888888888889
+Deviation
+0.10526315789473684
+Beta
+20.375
+Lowest Energy
+-8.0859
+Iterations
+1900
+Accepted
+722
+Acceptance rate
+0.38
+Deviation
+0.1
+Beta
+21.9125
+Lowest Energy
+-8.0673
+Iterations
+2000
+Accepted
+755
+Acceptance rate
+0.3775
+Deviation
+0.09523809523809523
+Beta
+21.500000000000004
+Lowest Energy
+-8.0505
+Iterations
+2100
+Accepted
+789
+Acceptance rate
+0.3757142857142857
+Deviation
+0.09090909090909091
+Beta
+26.187500000000004
+Lowest Energy
+-7.991
+Iterations
+2200
+Accepted
+817
+Acceptance rate
+0.37136363636363634
+Deviation
+0.08695652173913043
+Beta
+27.925000000000004
+Lowest Energy
+-7.751200000000001
+Iterations
+2300
+Accepted
+848
+Acceptance rate
+0.36869565217391304
+Deviation
+0.08333333333333333
+Beta
+25.975
+Lowest Energy
+-7.6695
+Iterations
+2400
+Accepted
+889
+Acceptance rate
+0.37041666666666667
+Deviation
+0.08
+Beta
+27.650000000000006
+Lowest Energy
+-8.1575
+Iterations
+2500
+Accepted
+931
+Acceptance rate
+0.3724
+Deviation
+0.07692307692307693
+Beta
+27.1875
+Lowest Energy
+-7.910699999999999
+Iterations
+2600
+Accepted
+962
+Acceptance rate
+0.37
+Deviation
+0.07407407407407407
+Beta
+32.125
+Lowest Energy
+-8.1054
+Iterations
+2700
+Accepted
+987
+Acceptance rate
+0.3655555555555556
+Deviation
+0.07142857142857142
+Beta
+33.987500000000004
+Lowest Energy
+-8.296299999999999
+Iterations
+2800
+Accepted
+1032
+Acceptance rate
+0.36857142857142855
+Deviation
+0.06896551724137931
+Beta
+29.250000000000004
+Lowest Energy
+-8.1369
+Iterations
+2900
+Accepted
+1069
+Acceptance rate
+0.3686206896551724
+Deviation
+0.06666666666666667
+Beta
+35.325
+Lowest Energy
+-8.3262
+Iterations
+3000
+Accepted
+1106
+Acceptance rate
+0.36866666666666664
+Deviation
+0.06451612903225806
+Beta
+36.50000000000001
+Lowest Energy
+-8.3244
+Iterations
+3100
+Accepted
+1134
+Acceptance rate
+0.3658064516129032
+Deviation
+0.0625
+Beta
+34.962500000000006
+Lowest Energy
+-8.281400000000001
+Iterations
+3200
+Accepted
+1155
+Acceptance rate
+0.3609375
+Deviation
+0.06060606060606061
+Beta
+39.650000000000006
+Lowest Energy
+-8.4106
+Iterations
+3300
+Accepted
+1189
+Acceptance rate
+0.3603030303030303
+Deviation
+0.058823529411764705
+Beta
+40.437500000000014
+Lowest Energy
+-8.383700000000001
+Iterations
+3400
+Accepted
+1223
+Acceptance rate
+0.35970588235294115
+Deviation
+0.05714285714285714
+Beta
+40.775000000000006
+Lowest Energy
+-8.3263
+Iterations
+3500
+Accepted
+1241
+Acceptance rate
+0.3545714285714286
+Deviation
+0.05555555555555555
+Beta
+38.0
+Lowest Energy
+-8.435
+Iterations
+3600
+Accepted
+1282
+Acceptance rate
+0.3561111111111111
+Deviation
+0.05405405405405406
+Beta
+44.45000000000001
+Lowest Energy
+-8.2502
+Iterations
+3700
+Accepted
+1317
+Acceptance rate
+0.3559459459459459
+Deviation
+0.05263157894736842
+Beta
+40.5625
+Lowest Energy
+-8.1553
+Iterations
+3800
+Accepted
+1348
+Acceptance rate
+0.3547368421052632
+Deviation
+0.05128205128205128
+Beta
+42.10000000000001
+Lowest Energy
+-8.375399999999999
+Iterations
+3900
+Accepted
+1379
+Acceptance rate
+0.3535897435897436
+Deviation
+0.05
+Beta
+47.075
+Lowest Energy
+-8.4312
+Iterations
+4000
+Accepted
+1395
+Acceptance rate
+0.34875
+Deviation
+0.04878048780487805
+Beta
+43.75
+Lowest Energy
+-8.323599999999999
+Iterations
+4100
+Accepted
+1428
+Acceptance rate
+0.34829268292682924
+Deviation
+0.047619047619047616
+Beta
+51.47500000000001
+Lowest Energy
+-8.264
+Iterations
+4200
+Accepted
+1464
+Acceptance rate
+0.3485714285714286
+Deviation
+0.046511627906976744
+Beta
+45.35
+Lowest Energy
+-8.1945
+Iterations
+4300
+Accepted
+1483
+Acceptance rate
+0.34488372093023256
+Deviation
+0.045454545454545456
+Beta
+48.0125
+Lowest Energy
+-8.2038
+Iterations
+4400
+Accepted
+1523
+Acceptance rate
+0.34613636363636363
+Deviation
+0.044444444444444446
+Beta
+54.05000000000001
+Lowest Energy
+-8.3605
+Iterations
+4500
+Accepted
+1539
+Acceptance rate
+0.342
+Deviation
+0.043478260869565216
+Beta
+54.68750000000001
+Lowest Energy
+-8.3662
+Iterations
+4600
+Accepted
+1576
+Acceptance rate
+0.3426086956521739
+Deviation
+0.0425531914893617
+Beta
+53.00000000000001
+Lowest Energy
+-8.380799999999999
+Iterations
+4700
+Accepted
+1603
+Acceptance rate
+0.34106382978723404
+Deviation
+0.041666666666666664
+Beta
+56.47500000000001
+Lowest Energy
+-8.3363
+Iterations
+4800
+Accepted
+1623
+Acceptance rate
+0.338125
+Deviation
+0.04081632653061224
+Beta
+50.45
+Lowest Energy
+-8.3954
+Iterations
+4900
+Accepted
+1665
+Acceptance rate
+0.33979591836734696
+Deviation
+0.04
+Beta
+56.987500000000004
+Lowest Energy
+-8.3467
+Iterations
+5000
+Accepted
+1692
+Acceptance rate
+0.3384
+Deviation
+0.0392156862745098
+Beta
+52.5
+Lowest Energy
+-8.4352
+Iterations
+5100
+Accepted
+1722
+Acceptance rate
+0.3376470588235294
+Deviation
+0.038461538461538464
+Beta
+63.08750000000002
+Lowest Energy
+-8.3989
+Iterations
+5200
+Accepted
+1754
+Acceptance rate
+0.3373076923076923
+Deviation
+0.03773584905660377
+Beta
+64.95000000000002
+Lowest Energy
+-8.2538
+Iterations
+5300
+Accepted
+1786
+Acceptance rate
+0.3369811320754717
+Deviation
+0.037037037037037035
+Beta
+58.22500000000001
+Lowest Energy
+-8.321
+Iterations
+5400
+Accepted
+1802
+Acceptance rate
+0.3337037037037037
+Deviation
+0.03636363636363636
+Beta
+67.4
+Lowest Energy
+-8.3544
+Iterations
+5500
+Accepted
+1815
+Acceptance rate
+0.33
+Deviation
+0.03571428571428571
+Beta
+61.75000000000001
+Lowest Energy
+-8.4144
+Iterations
+5600
+Accepted
+1839
+Acceptance rate
+0.32839285714285715
+Deviation
+0.03508771929824561
+Beta
+68.45000000000002
+Lowest Energy
+-8.4182
+Iterations
+5700
+Accepted
+1859
+Acceptance rate
+0.326140350877193
+Deviation
+0.034482758620689655
+Beta
+66.80000000000001
+Lowest Energy
+-8.341
+Iterations
+5800
+Accepted
+1878
+Acceptance rate
+0.3237931034482759
+Deviation
+0.03389830508474576
+Beta
+62.150000000000006
+Lowest Energy
+-8.4026
+Iterations
+5900
+Accepted
+1898
+Acceptance rate
+0.32169491525423727
+Deviation
+0.03333333333333333
+Beta
+73.52500000000002
+Lowest Energy
+-8.4346
+Iterations
+6000
+Accepted
+1919
+Acceptance rate
+0.31983333333333336
+Deviation
+0.03278688524590164
+Beta
+66.5
+Lowest Energy
+-8.4337
+Iterations
+6100
+Accepted
+1938
+Acceptance rate
+0.3177049180327869
+Deviation
+0.03225806451612903
+Beta
+68.35000000000001
+Lowest Energy
+-8.4906
+Iterations
+6200
+Accepted
+1966
+Acceptance rate
+0.31709677419354837
+Deviation
+0.031746031746031744
+Beta
+67.9
+Lowest Energy
+-8.5282
+Iterations
+6300
+Accepted
+1987
+Acceptance rate
+0.3153968253968254
+Deviation
+0.03125
+Beta
+77.63750000000002
+Lowest Energy
+-8.5171
+Iterations
+6400
+Accepted
+2000
+Acceptance rate
+0.3125
+Deviation
+0.03076923076923077
+Beta
+78.85000000000002
+Lowest Energy
+-8.5339
+Iterations
+6500
+Accepted
+2024
+Acceptance rate
+0.31138461538461537
+Deviation
+0.030303030303030304
+Beta
+72.75000000000001
+Lowest Energy
+-8.565000000000001
+Iterations
+6600
+Accepted
+2032
+Acceptance rate
+0.30787878787878786
+Deviation
+0.029850746268656716
+Beta
+72.2
+Lowest Energy
+-8.6127
+Iterations
+6700
+Accepted
+2034
+Acceptance rate
+0.3035820895522388
+Deviation
+0.029411764705882353
+Beta
+76.62500000000001
+Lowest Energy
+-8.590300000000001
+Iterations
+6800
+Accepted
+2051
+Acceptance rate
+0.30161764705882355
+Deviation
+0.028985507246376812
+Beta
+74.35000000000001
+Lowest Energy
+-8.6511
+Iterations
+6900
+Accepted
+2066
+Acceptance rate
+0.29942028985507246
+Deviation
+0.02857142857142857
+Beta
+80.60000000000002
+Lowest Energy
+-8.5741
+Iterations
+7000
+Accepted
+2087
+Acceptance rate
+0.29814285714285715
+Deviation
+0.028169014084507043
+Beta
+73.87500000000001
+Lowest Energy
+-8.6253
+Iterations
+7100
+Accepted
+2101
+Acceptance rate
+0.2959154929577465
+Deviation
+0.027777777777777776
+Beta
+87.33750000000002
+Lowest Energy
+-8.545
+Iterations
+7200
+Accepted
+2109
+Acceptance rate
+0.29291666666666666
+Deviation
+0.0273972602739726
+Beta
+75.95
+Lowest Energy
+-8.5959
+Iterations
+7300
+Accepted
+2131
+Acceptance rate
+0.29191780821917807
+Deviation
+0.02702702702702703
+Beta
+84.28750000000001
+Lowest Energy
+-8.627099999999999
+Iterations
+7400
+Accepted
+2132
+Acceptance rate
+0.2881081081081081
+Deviation
+0.02666666666666667
+Beta
+81.72500000000001
+Lowest Energy
+-8.619399999999999
+Iterations
+7500
+Accepted
+2143
+Acceptance rate
+0.28573333333333334
+Deviation
+0.02631578947368421
+Beta
+84.68750000000001
+Lowest Energy
+-8.583
+Iterations
+7600
+Accepted
+2147
+Acceptance rate
+0.2825
+Deviation
+0.025974025974025976
+Beta
+86.75
+Lowest Energy
+-8.5204
+Iterations
+7700
+Accepted
+2166
+Acceptance rate
+0.2812987012987013
+Deviation
+0.02564102564102564
+Beta
+92.68750000000003
+Lowest Energy
+-8.4386
+Iterations
+7800
+Accepted
+2185
+Acceptance rate
+0.28012820512820513
+Deviation
+0.02531645569620253
+Beta
+81.20000000000002
+Lowest Energy
+-8.5062
+Iterations
+7900
+Accepted
+2210
+Acceptance rate
+0.27974683544303797
+Deviation
+0.025
+Beta
+96.05000000000003
+Lowest Energy
+-8.5429
+Iterations
+8000
+Accepted
+2227
+Acceptance rate
+0.278375
+Deviation
+0.024691358024691357
+Beta
+84.25
+Lowest Energy
+-8.541
+Iterations
+8100
+Accepted
+2246
+Acceptance rate
+0.27728395061728395
+Deviation
+0.024390243902439025
+Beta
+98.45000000000002
+Lowest Energy
+-8.5533
+Iterations
+8200
+Accepted
+2263
+Acceptance rate
+0.2759756097560976
+Deviation
+0.024096385542168676
+Beta
+98.62500000000003
+Lowest Energy
+-8.5862
+Iterations
+8300
+Accepted
+2274
+Acceptance rate
+0.27397590361445784
+Deviation
+0.023809523809523808
+Beta
+86.325
+Lowest Energy
+-8.5957
+Iterations
+8400
+Accepted
+2293
+Acceptance rate
+0.2729761904761905
+Deviation
+0.023529411764705882
+Beta
+88.4
+Lowest Energy
+-8.6156
+Iterations
+8500
+Accepted
+2309
+Acceptance rate
+0.2716470588235294
+Deviation
+0.023255813953488372
+Beta
+88.375
+Lowest Energy
+-8.5709
+Iterations
+8600
+Accepted
+2330
+Acceptance rate
+0.2709302325581395
+Deviation
+0.022988505747126436
+Beta
+94.775
+Lowest Energy
+-8.5302
+Iterations
+8700
+Accepted
+2351
+Acceptance rate
+0.27022988505747125
+Deviation
+0.022727272727272728
+Beta
+92.60000000000002
+Lowest Energy
+-8.5984
+Iterations
+8800
+Accepted
+2359
+Acceptance rate
+0.2680681818181818
+Deviation
+0.02247191011235955
+Beta
+101.35000000000002
+Lowest Energy
+-8.6262
+Iterations
+8900
+Accepted
+2369
+Acceptance rate
+0.26617977528089887
+Deviation
+0.022222222222222223
+Beta
+90.25
+Lowest Energy
+-8.6125
+Iterations
+9000
+Accepted
+2375
+Acceptance rate
+0.2638888888888889
+Deviation
+0.02197802197802198
+Beta
+99.12500000000001
+Lowest Energy
+-8.578
+Iterations
+9100
+Accepted
+2388
+Acceptance rate
+0.2624175824175824
+Deviation
+0.021739130434782608
+Beta
+94.525
+Lowest Energy
+-8.5956
+Iterations
+9200
+Accepted
+2403
+Acceptance rate
+0.26119565217391305
+Deviation
+0.021505376344086023
+Beta
+100.15
+Lowest Energy
+-8.615
+Iterations
+9300
+Accepted
+2411
+Acceptance rate
+0.259247311827957
+Deviation
+0.02127659574468085
+Beta
+111.68750000000003
+Lowest Energy
+-8.6578
+Iterations
+9400
+Accepted
+2411
+Acceptance rate
+0.25648936170212766
+Deviation
+0.021052631578947368
+Beta
+95.25
+Lowest Energy
+-8.6578
+Iterations
+9500
+Accepted
+2411
+Acceptance rate
+0.2537894736842105
+Deviation
+0.020833333333333332
+Beta
+111.68750000000001
+Lowest Energy
+-8.6578
+Iterations
+9600
+Accepted
+2411
+Acceptance rate
+0.25114583333333335
+Deviation
+0.020618556701030927
+Beta
+104.45
+Lowest Energy
+-8.6578
+Iterations
+9700
+Accepted
+2411
+Acceptance rate
+0.24855670103092783
+Deviation
+0.02040816326530612
+Beta
+111.5875
+Lowest Energy
+-8.6578
+Iterations
+9800
+Accepted
+2411
+Acceptance rate
+0.24602040816326531
+Deviation
+0.020202020202020204
+Beta
+104.15
+Lowest Energy
+-8.6578
+Iterations
+9900
+Accepted
+2412
+Acceptance rate
+0.24363636363636362
+Deviation
+0.02
+Beta
+110.15
+Lowest Energy
+-8.6556
+Iterations
+10000
+Accepted
+2412
+Acceptance rate
+0.2412
+Deviation
+0.019801980198019802
+Beta
+106.25000000000001
+Lowest Energy
+-8.6556
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.7951999999999999
+Iterations
+100
+Accepted
+73
+Acceptance rate
+0.73
+Deviation
+1.0
+Beta
+2.275
+Lowest Energy
+0.2004
+Iterations
+200
+Accepted
+132
+Acceptance rate
+0.66
+Deviation
+0.6666666666666666
+Beta
+3.25
+Lowest Energy
+-1.5852
+Iterations
+300
+Accepted
+172
+Acceptance rate
+0.5733333333333334
+Deviation
+0.5
+Beta
+4.550000000000001
+Lowest Energy
+-0.2217
+Iterations
+400
+Accepted
+226
+Acceptance rate
+0.565
+Deviation
+0.4
+Beta
+6.100000000000001
+Lowest Energy
+-1.6191
+Iterations
+500
+Accepted
+274
+Acceptance rate
+0.548
+Deviation
+0.3333333333333333
+Beta
+6.875000000000001
+Lowest Energy
+-2.2875
+Iterations
+600
+Accepted
+306
+Acceptance rate
+0.51
+Deviation
+0.2857142857142857
+Beta
+8.3
+Lowest Energy
+-4.7708
+Iterations
+700
+Accepted
+331
+Acceptance rate
+0.47285714285714286
+Deviation
+0.25
+Beta
+9.650000000000002
+Lowest Energy
+-5.1385000000000005
+Iterations
+800
+Accepted
+365
+Acceptance rate
+0.45625
+Deviation
+0.2222222222222222
+Beta
+10.05
+Lowest Energy
+-5.656000000000001
+Iterations
+900
+Accepted
+402
+Acceptance rate
+0.44666666666666666
+Deviation
+0.2
+Beta
+12.050000000000002
+Lowest Energy
+-6.7773
+Iterations
+1000
+Accepted
+437
+Acceptance rate
+0.437
+Deviation
+0.18181818181818182
+Beta
+13.375000000000004
+Lowest Energy
+-6.9345
+Iterations
+1100
+Accepted
+469
+Acceptance rate
+0.4263636363636364
+Deviation
+0.16666666666666666
+Beta
+13.4875
+Lowest Energy
+-6.8437
+Iterations
+1200
+Accepted
+499
+Acceptance rate
+0.41583333333333333
+Deviation
+0.15384615384615385
+Beta
+13.4
+Lowest Energy
+-7.2391000000000005
+Iterations
+1300
+Accepted
+534
+Acceptance rate
+0.4107692307692308
+Deviation
+0.14285714285714285
+Beta
+14.412500000000001
+Lowest Energy
+-7.5609
+Iterations
+1400
+Accepted
+566
+Acceptance rate
+0.4042857142857143
+Deviation
+0.13333333333333333
+Beta
+18.225
+Lowest Energy
+-8.047799999999999
+Iterations
+1500
+Accepted
+602
+Acceptance rate
+0.4013333333333333
+Deviation
+0.125
+Beta
+18.125000000000004
+Lowest Energy
+-7.5525
+Iterations
+1600
+Accepted
+633
+Acceptance rate
+0.395625
+Deviation
+0.11764705882352941
+Beta
+18.25
+Lowest Energy
+-7.872399999999999
+Iterations
+1700
+Accepted
+669
+Acceptance rate
+0.3935294117647059
+Deviation
+0.1111111111111111
+Beta
+19.950000000000003
+Lowest Energy
+-7.486
+Iterations
+1800
+Accepted
+709
+Acceptance rate
+0.3938888888888889
+Deviation
+0.10526315789473684
+Beta
+19.925
+Lowest Energy
+-7.5851
+Iterations
+1900
+Accepted
+738
+Acceptance rate
+0.38842105263157894
+Deviation
+0.1
+Beta
+21.200000000000003
+Lowest Energy
+-7.9867
+Iterations
+2000
+Accepted
+773
+Acceptance rate
+0.3865
+Deviation
+0.09523809523809523
+Beta
+23.500000000000007
+Lowest Energy
+-7.7355
+Iterations
+2100
+Accepted
+798
+Acceptance rate
+0.38
+Deviation
+0.09090909090909091
+Beta
+23.3
+Lowest Energy
+-7.639900000000001
+Iterations
+2200
+Accepted
+829
+Acceptance rate
+0.37681818181818183
+Deviation
+0.08695652173913043
+Beta
+27.925000000000004
+Lowest Energy
+-7.6028
+Iterations
+2300
+Accepted
+860
+Acceptance rate
+0.3739130434782609
+Deviation
+0.08333333333333333
+Beta
+28.85000000000001
+Lowest Energy
+-7.7565
+Iterations
+2400
+Accepted
+890
+Acceptance rate
+0.37083333333333335
+Deviation
+0.08
+Beta
+30.350000000000005
+Lowest Energy
+-7.8657
+Iterations
+2500
+Accepted
+932
+Acceptance rate
+0.3728
+Deviation
+0.07692307692307693
+Beta
+29.375000000000004
+Lowest Energy
+-7.7330000000000005
+Iterations
+2600
+Accepted
+972
+Acceptance rate
+0.37384615384615383
+Deviation
+0.07407407407407407
+Beta
+30.500000000000004
+Lowest Energy
+-7.8771
+Iterations
+2700
+Accepted
+1002
+Acceptance rate
+0.3711111111111111
+Deviation
+0.07142857142857142
+Beta
+33.650000000000006
+Lowest Energy
+-7.9328
+Iterations
+2800
+Accepted
+1035
+Acceptance rate
+0.36964285714285716
+Deviation
+0.06896551724137931
+Beta
+29.6
+Lowest Energy
+-7.906000000000001
+Iterations
+2900
+Accepted
+1068
+Acceptance rate
+0.3682758620689655
+Deviation
+0.06666666666666667
+Beta
+36.775000000000006
+Lowest Energy
+-7.9427
+Iterations
+3000
+Accepted
+1102
+Acceptance rate
+0.36733333333333335
+Deviation
+0.06451612903225806
+Beta
+31.25
+Lowest Energy
+-8.0666
+Iterations
+3100
+Accepted
+1134
+Acceptance rate
+0.3658064516129032
+Deviation
+0.0625
+Beta
+37.675000000000004
+Lowest Energy
+-7.7653
+Iterations
+3200
+Accepted
+1174
+Acceptance rate
+0.366875
+Deviation
+0.06060606060606061
+Beta
+36.050000000000004
+Lowest Energy
+-8.155899999999999
+Iterations
+3300
+Accepted
+1207
+Acceptance rate
+0.3657575757575758
+Deviation
+0.058823529411764705
+Beta
+34.6625
+Lowest Energy
+-8.192599999999999
+Iterations
+3400
+Accepted
+1246
+Acceptance rate
+0.3664705882352941
+Deviation
+0.05714285714285714
+Beta
+41.62500000000001
+Lowest Energy
+-8.0791
+Iterations
+3500
+Accepted
+1275
+Acceptance rate
+0.36428571428571427
+Deviation
+0.05555555555555555
+Beta
+37.56250000000001
+Lowest Energy
+-8.172
+Iterations
+3600
+Accepted
+1312
+Acceptance rate
+0.36444444444444446
+Deviation
+0.05405405405405406
+Beta
+42.2
+Lowest Energy
+-8.3853
+Iterations
+3700
+Accepted
+1346
+Acceptance rate
+0.3637837837837838
+Deviation
+0.05263157894736842
+Beta
+44.2625
+Lowest Energy
+-8.491900000000001
+Iterations
+3800
+Accepted
+1377
+Acceptance rate
+0.36236842105263156
+Deviation
+0.05128205128205128
+Beta
+45.900000000000006
+Lowest Energy
+-8.3936
+Iterations
+3900
+Accepted
+1418
+Acceptance rate
+0.3635897435897436
+Deviation
+0.05
+Beta
+42.68750000000001
+Lowest Energy
+-8.361699999999999
+Iterations
+4000
+Accepted
+1439
+Acceptance rate
+0.35975
+Deviation
+0.04878048780487805
+Beta
+49.750000000000014
+Lowest Energy
+-8.2149
+Iterations
+4100
+Accepted
+1473
+Acceptance rate
+0.3592682926829268
+Deviation
+0.047619047619047616
+Beta
+51.47500000000001
+Lowest Energy
+-8.3596
+Iterations
+4200
+Accepted
+1502
+Acceptance rate
+0.3576190476190476
+Deviation
+0.046511627906976744
+Beta
+44.825
+Lowest Energy
+-8.488900000000001
+Iterations
+4300
+Accepted
+1539
+Acceptance rate
+0.35790697674418603
+Deviation
+0.045454545454545456
+Beta
+49.625
+Lowest Energy
+-8.4085
+Iterations
+4400
+Accepted
+1555
+Acceptance rate
+0.3534090909090909
+Deviation
+0.044444444444444446
+Beta
+49.650000000000006
+Lowest Energy
+-8.4238
+Iterations
+4500
+Accepted
+1588
+Acceptance rate
+0.35288888888888886
+Deviation
+0.043478260869565216
+Beta
+46.8125
+Lowest Energy
+-8.4826
+Iterations
+4600
+Accepted
+1619
+Acceptance rate
+0.35195652173913045
+Deviation
+0.0425531914893617
+Beta
+53.57500000000001
+Lowest Energy
+-8.342500000000001
+Iterations
+4700
+Accepted
+1639
+Acceptance rate
+0.34872340425531917
+Deviation
+0.041666666666666664
+Beta
+51.1875
+Lowest Energy
+-8.4217
+Iterations
+4800
+Accepted
+1655
+Acceptance rate
+0.34479166666666666
+Deviation
+0.04081632653061224
+Beta
+54.650000000000006
+Lowest Energy
+-8.4565
+Iterations
+4900
+Accepted
+1679
+Acceptance rate
+0.3426530612244898
+Deviation
+0.04
+Beta
+52.7
+Lowest Energy
+-8.4367
+Iterations
+5000
+Accepted
+1699
+Acceptance rate
+0.3398
+Deviation
+0.0392156862745098
+Beta
+52.5
+Lowest Energy
+-8.465399999999999
+Iterations
+5100
+Accepted
+1736
+Acceptance rate
+0.3403921568627451
+Deviation
+0.038461538461538464
+Beta
+56.712500000000006
+Lowest Energy
+-8.3324
+Iterations
+5200
+Accepted
+1779
+Acceptance rate
+0.3421153846153846
+Deviation
+0.03773584905660377
+Beta
+61.05000000000001
+Lowest Energy
+-8.327200000000001
+Iterations
+5300
+Accepted
+1803
+Acceptance rate
+0.340188679245283
+Deviation
+0.037037037037037035
+Beta
+54.9125
+Lowest Energy
+-8.5013
+Iterations
+5400
+Accepted
+1830
+Acceptance rate
+0.3388888888888889
+Deviation
+0.03636363636363636
+Beta
+63.35000000000001
+Lowest Energy
+-8.4967
+Iterations
+5500
+Accepted
+1864
+Acceptance rate
+0.3389090909090909
+Deviation
+0.03571428571428571
+Beta
+67.93750000000001
+Lowest Energy
+-8.5632
+Iterations
+5600
+Accepted
+1876
+Acceptance rate
+0.335
+Deviation
+0.03508771929824561
+Beta
+64.95000000000002
+Lowest Energy
+-8.5167
+Iterations
+5700
+Accepted
+1905
+Acceptance rate
+0.33421052631578946
+Deviation
+0.034482758620689655
+Beta
+70.36250000000001
+Lowest Energy
+-8.516300000000001
+Iterations
+5800
+Accepted
+1925
+Acceptance rate
+0.33189655172413796
+Deviation
+0.03389830508474576
+Beta
+69.4
+Lowest Energy
+-8.5086
+Iterations
+5900
+Accepted
+1939
+Acceptance rate
+0.32864406779661015
+Deviation
+0.03333333333333333
+Beta
+62.462500000000006
+Lowest Energy
+-8.4628
+Iterations
+6000
+Accepted
+1970
+Acceptance rate
+0.3283333333333333
+Deviation
+0.03278688524590164
+Beta
+71.75000000000001
+Lowest Energy
+-8.546299999999999
+Iterations
+6100
+Accepted
+1993
+Acceptance rate
+0.32672131147540984
+Deviation
+0.03225806451612903
+Beta
+65.3
+Lowest Energy
+-8.5674
+Iterations
+6200
+Accepted
+2017
+Acceptance rate
+0.3253225806451613
+Deviation
+0.031746031746031744
+Beta
+67.125
+Lowest Energy
+-8.6262
+Iterations
+6300
+Accepted
+2031
+Acceptance rate
+0.3223809523809524
+Deviation
+0.03125
+Beta
+64.25
+Lowest Energy
+-8.5487
+Iterations
+6400
+Accepted
+2051
+Acceptance rate
+0.32046875
+Deviation
+0.03076923076923077
+Beta
+67.65
+Lowest Energy
+-8.5275
+Iterations
+6500
+Accepted
+2072
+Acceptance rate
+0.31876923076923075
+Deviation
+0.030303030303030304
+Beta
+67.0625
+Lowest Energy
+-8.5581
+Iterations
+6600
+Accepted
+2093
+Acceptance rate
+0.31712121212121214
+Deviation
+0.029850746268656716
+Beta
+78.80000000000001
+Lowest Energy
+-8.6081
+Iterations
+6700
+Accepted
+2116
+Acceptance rate
+0.31582089552238807
+Deviation
+0.029411764705882353
+Beta
+77.46250000000002
+Lowest Energy
+-8.6305
+Iterations
+6800
+Accepted
+2120
+Acceptance rate
+0.31176470588235294
+Deviation
+0.028985507246376812
+Beta
+75.20000000000002
+Lowest Energy
+-8.5967
+Iterations
+6900
+Accepted
+2148
+Acceptance rate
+0.31130434782608696
+Deviation
+0.02857142857142857
+Beta
+80.60000000000002
+Lowest Energy
+-8.3969
+Iterations
+7000
+Accepted
+2166
+Acceptance rate
+0.30942857142857144
+Deviation
+0.028169014084507043
+Beta
+85.25000000000003
+Lowest Energy
+-8.4442
+Iterations
+7100
+Accepted
+2169
+Acceptance rate
+0.3054929577464789
+Deviation
+0.027777777777777776
+Beta
+74.025
+Lowest Energy
+-8.4963
+Iterations
+7200
+Accepted
+2169
+Acceptance rate
+0.30125
+Deviation
+0.0273972602739726
+Beta
+84.95000000000002
+Lowest Energy
+-8.4963
+Iterations
+7300
+Accepted
+2173
+Acceptance rate
+0.2976712328767123
+Deviation
+0.02702702702702703
+Beta
+90.67500000000003
+Lowest Energy
+-8.5083
+Iterations
+7400
+Accepted
+2188
+Acceptance rate
+0.29567567567567565
+Deviation
+0.02666666666666667
+Beta
+79.875
+Lowest Energy
+-8.4844
+Iterations
+7500
+Accepted
+2204
+Acceptance rate
+0.29386666666666666
+Deviation
+0.02631578947368421
+Beta
+92.18750000000001
+Lowest Energy
+-8.4976
+Iterations
+7600
+Accepted
+2222
+Acceptance rate
+0.29236842105263156
+Deviation
+0.025974025974025976
+Beta
+82.00000000000001
+Lowest Energy
+-8.5064
+Iterations
+7700
+Accepted
+2244
+Acceptance rate
+0.2914285714285714
+Deviation
+0.02564102564102564
+Beta
+91.72500000000001
+Lowest Energy
+-8.5518
+Iterations
+7800
+Accepted
+2265
+Acceptance rate
+0.2903846153846154
+Deviation
+0.02531645569620253
+Beta
+87.05000000000001
+Lowest Energy
+-8.583499999999999
+Iterations
+7900
+Accepted
+2288
+Acceptance rate
+0.289620253164557
+Deviation
+0.025
+Beta
+93.08750000000002
+Lowest Energy
+-8.5931
+Iterations
+8000
+Accepted
+2306
+Acceptance rate
+0.28825
+Deviation
+0.024691358024691357
+Beta
+83.25000000000001
+Lowest Energy
+-8.6465
+Iterations
+8100
+Accepted
+2317
+Acceptance rate
+0.2860493827160494
+Deviation
+0.024390243902439025
+Beta
+96.42500000000001
+Lowest Energy
+-8.6569
+Iterations
+8200
+Accepted
+2329
+Acceptance rate
+0.2840243902439024
+Deviation
+0.024096385542168676
+Beta
+86.325
+Lowest Energy
+-8.655899999999999
+Iterations
+8300
+Accepted
+2342
+Acceptance rate
+0.2821686746987952
+Deviation
+0.023809523809523808
+Beta
+102.92500000000003
+Lowest Energy
+-8.6181
+Iterations
+8400
+Accepted
+2355
+Acceptance rate
+0.28035714285714286
+Deviation
+0.023529411764705882
+Beta
+98.90000000000002
+Lowest Energy
+-8.6133
+Iterations
+8500
+Accepted
+2360
+Acceptance rate
+0.2776470588235294
+Deviation
+0.023255813953488372
+Beta
+103.25000000000003
+Lowest Energy
+-8.6081
+Iterations
+8600
+Accepted
+2374
+Acceptance rate
+0.276046511627907
+Deviation
+0.022988505747126436
+Beta
+96.92500000000001
+Lowest Energy
+-8.606200000000001
+Iterations
+8700
+Accepted
+2390
+Acceptance rate
+0.2747126436781609
+Deviation
+0.022727272727272728
+Beta
+94.775
+Lowest Energy
+-8.571200000000001
+Iterations
+8800
+Accepted
+2399
+Acceptance rate
+0.2726136363636364
+Deviation
+0.02247191011235955
+Beta
+102.45000000000002
+Lowest Energy
+-8.6281
+Iterations
+8900
+Accepted
+2412
+Acceptance rate
+0.27101123595505616
+Deviation
+0.022222222222222223
+Beta
+108.05000000000001
+Lowest Energy
+-8.662099999999999
+Iterations
+9000
+Accepted
+2413
+Acceptance rate
+0.26811111111111113
+Deviation
+0.02197802197802198
+Beta
+98.0
+Lowest Energy
+-8.6741
+Iterations
+9100
+Accepted
+2414
+Acceptance rate
+0.2652747252747253
+Deviation
+0.021739130434782608
+Beta
+110.45000000000002
+Lowest Energy
+-8.666699999999999
+Iterations
+9200
+Accepted
+2427
+Acceptance rate
+0.26380434782608697
+Deviation
+0.021505376344086023
+Beta
+95.55000000000001
+Lowest Energy
+-8.703
+Iterations
+9300
+Accepted
+2448
+Acceptance rate
+0.2632258064516129
+Deviation
+0.02127659574468085
+Beta
+115.17500000000001
+Lowest Energy
+-8.709900000000001
+Iterations
+9400
+Accepted
+2452
+Acceptance rate
+0.26085106382978723
+Deviation
+0.021052631578947368
+Beta
+114.05000000000003
+Lowest Energy
+-8.699
+Iterations
+9500
+Accepted
+2457
+Acceptance rate
+0.25863157894736843
+Deviation
+0.020833333333333332
+Beta
+102.18750000000001
+Lowest Energy
+-8.697199999999999
+Iterations
+9600
+Accepted
+2458
+Acceptance rate
+0.25604166666666667
+Deviation
+0.020618556701030927
+Beta
+106.85000000000002
+Lowest Energy
+-8.6715
+Iterations
+9700
+Accepted
+2458
+Acceptance rate
+0.2534020618556701
+Deviation
+0.02040816326530612
+Beta
+100.67500000000001
+Lowest Energy
+-8.6715
+Iterations
+9800
+Accepted
+2471
+Acceptance rate
+0.25214285714285717
+Deviation
+0.020202020202020204
+Beta
+99.25
+Lowest Energy
+-8.6235
+Iterations
+9900
+Accepted
+2492
+Acceptance rate
+0.25171717171717173
+Deviation
+0.02
+Beta
+120.05000000000003
+Lowest Energy
+-8.6094
+Iterations
+10000
+Accepted
+2494
+Acceptance rate
+0.2494
+Deviation
+0.019801980198019802
+Beta
+107.50000000000001
+Lowest Energy
+-8.6182
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.7634000000000001
+Iterations
+100
+Accepted
+71
+Acceptance rate
+0.71
+Deviation
+1.0
+Beta
+2.4000000000000004
+Lowest Energy
+-0.9768000000000001
+Iterations
+200
+Accepted
+137
+Acceptance rate
+0.685
+Deviation
+0.6666666666666666
+Beta
+3.6000000000000005
+Lowest Energy
+-0.9593
+Iterations
+300
+Accepted
+182
+Acceptance rate
+0.6066666666666667
+Deviation
+0.5
+Beta
+4.775
+Lowest Energy
+-1.3362999999999998
+Iterations
+400
+Accepted
+236
+Acceptance rate
+0.59
+Deviation
+0.4
+Beta
+5.25
+Lowest Energy
+-2.4828
+Iterations
+500
+Accepted
+283
+Acceptance rate
+0.566
+Deviation
+0.3333333333333333
+Beta
+7.125000000000002
+Lowest Energy
+-3.5144
+Iterations
+600
+Accepted
+319
+Acceptance rate
+0.5316666666666666
+Deviation
+0.2857142857142857
+Beta
+7.925000000000001
+Lowest Energy
+-4.3633
+Iterations
+700
+Accepted
+352
+Acceptance rate
+0.5028571428571429
+Deviation
+0.25
+Beta
+9.037500000000001
+Lowest Energy
+-5.6396999999999995
+Iterations
+800
+Accepted
+375
+Acceptance rate
+0.46875
+Deviation
+0.2222222222222222
+Beta
+10.450000000000001
+Lowest Energy
+-5.771800000000001
+Iterations
+900
+Accepted
+405
+Acceptance rate
+0.45
+Deviation
+0.2
+Beta
+10.5875
+Lowest Energy
+-5.6691
+Iterations
+1000
+Accepted
+439
+Acceptance rate
+0.439
+Deviation
+0.18181818181818182
+Beta
+12.125000000000002
+Lowest Energy
+-5.7452000000000005
+Iterations
+1100
+Accepted
+470
+Acceptance rate
+0.42727272727272725
+Deviation
+0.16666666666666666
+Beta
+12.937500000000002
+Lowest Energy
+-6.6617
+Iterations
+1200
+Accepted
+509
+Acceptance rate
+0.4241666666666667
+Deviation
+0.15384615384615385
+Beta
+15.950000000000003
+Lowest Energy
+-6.8716
+Iterations
+1300
+Accepted
+545
+Acceptance rate
+0.41923076923076924
+Deviation
+0.14285714285714285
+Beta
+16.525000000000002
+Lowest Energy
+-6.776
+Iterations
+1400
+Accepted
+576
+Acceptance rate
+0.4114285714285714
+Deviation
+0.13333333333333333
+Beta
+16.475
+Lowest Energy
+-7.3632
+Iterations
+1500
+Accepted
+602
+Acceptance rate
+0.4013333333333333
+Deviation
+0.125
+Beta
+19.437500000000004
+Lowest Energy
+-6.99
+Iterations
+1600
+Accepted
+640
+Acceptance rate
+0.4
+Deviation
+0.11764705882352941
+Beta
+17.650000000000002
+Lowest Energy
+-7.3142
+Iterations
+1700
+Accepted
+674
+Acceptance rate
+0.39647058823529413
+Deviation
+0.1111111111111111
+Beta
+19.525000000000002
+Lowest Energy
+-7.355700000000001
+Iterations
+1800
+Accepted
+709
+Acceptance rate
+0.3938888888888889
+Deviation
+0.10526315789473684
+Beta
+21.950000000000003
+Lowest Energy
+-7.3591
+Iterations
+1900
+Accepted
+745
+Acceptance rate
+0.39210526315789473
+Deviation
+0.1
+Beta
+21.200000000000003
+Lowest Energy
+-7.6243
+Iterations
+2000
+Accepted
+782
+Acceptance rate
+0.391
+Deviation
+0.09523809523809523
+Beta
+21.25
+Lowest Energy
+-7.9527
+Iterations
+2100
+Accepted
+827
+Acceptance rate
+0.39380952380952383
+Deviation
+0.09090909090909091
+Beta
+24.6125
+Lowest Energy
+-7.6791
+Iterations
+2200
+Accepted
+863
+Acceptance rate
+0.3922727272727273
+Deviation
+0.08695652173913043
+Beta
+23.800000000000004
+Lowest Energy
+-7.6631
+Iterations
+2300
+Accepted
+892
+Acceptance rate
+0.38782608695652177
+Deviation
+0.08333333333333333
+Beta
+29.137500000000006
+Lowest Energy
+-7.549099999999999
+Iterations
+2400
+Accepted
+928
+Acceptance rate
+0.38666666666666666
+Deviation
+0.08
+Beta
+29.150000000000006
+Lowest Energy
+-7.5908999999999995
+Iterations
+2500
+Accepted
+968
+Acceptance rate
+0.3872
+Deviation
+0.07692307692307693
+Beta
+28.125000000000004
+Lowest Energy
+-7.967700000000001
+Iterations
+2600
+Accepted
+995
+Acceptance rate
+0.38269230769230766
+Deviation
+0.07407407407407407
+Beta
+32.125
+Lowest Energy
+-7.9986999999999995
+Iterations
+2700
+Accepted
+1021
+Acceptance rate
+0.3781481481481481
+Deviation
+0.07142857142857142
+Beta
+32.6375
+Lowest Energy
+-8.120800000000001
+Iterations
+2800
+Accepted
+1061
+Acceptance rate
+0.37892857142857145
+Deviation
+0.06896551724137931
+Beta
+35.2
+Lowest Energy
+-7.9648
+Iterations
+2900
+Accepted
+1095
+Acceptance rate
+0.3775862068965517
+Deviation
+0.06666666666666667
+Beta
+35.68750000000001
+Lowest Energy
+-8.2295
+Iterations
+3000
+Accepted
+1133
+Acceptance rate
+0.37766666666666665
+Deviation
+0.06451612903225806
+Beta
+32.75
+Lowest Energy
+-8.1639
+Iterations
+3100
+Accepted
+1165
+Acceptance rate
+0.3758064516129032
+Deviation
+0.0625
+Beta
+38.06250000000001
+Lowest Energy
+-8.193000000000001
+Iterations
+3200
+Accepted
+1197
+Acceptance rate
+0.3740625
+Deviation
+0.06060606060606061
+Beta
+36.85000000000001
+Lowest Energy
+-8.1529
+Iterations
+3300
+Accepted
+1234
+Acceptance rate
+0.37393939393939396
+Deviation
+0.058823529411764705
+Beta
+34.6625
+Lowest Energy
+-8.3294
+Iterations
+3400
+Accepted
+1270
+Acceptance rate
+0.3735294117647059
+Deviation
+0.05714285714285714
+Beta
+36.95
+Lowest Energy
+-8.2358
+Iterations
+3500
+Accepted
+1310
+Acceptance rate
+0.3742857142857143
+Deviation
+0.05555555555555555
+Beta
+40.625
+Lowest Energy
+-8.2109
+Iterations
+3600
+Accepted
+1356
+Acceptance rate
+0.37666666666666665
+Deviation
+0.05405405405405406
+Beta
+44.0
+Lowest Energy
+-8.3004
+Iterations
+3700
+Accepted
+1384
+Acceptance rate
+0.37405405405405406
+Deviation
+0.05263157894736842
+Beta
+40.5625
+Lowest Energy
+-8.3521
+Iterations
+3800
+Accepted
+1424
+Acceptance rate
+0.37473684210526315
+Deviation
+0.05128205128205128
+Beta
+46.85000000000001
+Lowest Energy
+-8.116299999999999
+Iterations
+3900
+Accepted
+1460
+Acceptance rate
+0.37435897435897436
+Deviation
+0.05
+Beta
+43.17500000000001
+Lowest Energy
+-8.3047
+Iterations
+4000
+Accepted
+1506
+Acceptance rate
+0.3765
+Deviation
+0.04878048780487805
+Beta
+42.25000000000001
+Lowest Energy
+-8.4579
+Iterations
+4100
+Accepted
+1553
+Acceptance rate
+0.37878048780487805
+Deviation
+0.047619047619047616
+Beta
+50.96250000000001
+Lowest Energy
+-8.3491
+Iterations
+4200
+Accepted
+1579
+Acceptance rate
+0.3759523809523809
+Deviation
+0.046511627906976744
+Beta
+47.975
+Lowest Energy
+-8.356200000000001
+Iterations
+4300
+Accepted
+1619
+Acceptance rate
+0.37651162790697673
+Deviation
+0.045454545454545456
+Beta
+49.087500000000006
+Lowest Energy
+-8.4214
+Iterations
+4400
+Accepted
+1642
+Acceptance rate
+0.37318181818181817
+Deviation
+0.044444444444444446
+Beta
+49.1
+Lowest Energy
+-8.3412
+Iterations
+4500
+Accepted
+1661
+Acceptance rate
+0.3691111111111111
+Deviation
+0.043478260869565216
+Beta
+51.87500000000001
+Lowest Energy
+-8.5076
+Iterations
+4600
+Accepted
+1687
+Acceptance rate
+0.3667391304347826
+Deviation
+0.0425531914893617
+Beta
+49.55
+Lowest Energy
+-8.481
+Iterations
+4700
+Accepted
+1706
+Acceptance rate
+0.3629787234042553
+Deviation
+0.041666666666666664
+Beta
+54.71250000000001
+Lowest Energy
+-8.3401
+Iterations
+4800
+Accepted
+1738
+Acceptance rate
+0.3620833333333333
+Deviation
+0.04081632653061224
+Beta
+52.25000000000001
+Lowest Energy
+-8.299900000000001
+Iterations
+4900
+Accepted
+1765
+Acceptance rate
+0.36020408163265305
+Deviation
+0.04
+Beta
+50.25
+Lowest Energy
+-8.4151
+Iterations
+5000
+Accepted
+1817
+Acceptance rate
+0.3634
+Deviation
+0.0392156862745098
+Beta
+61.87500000000001
+Lowest Energy
+-8.2332
+Iterations
+5100
+Accepted
+1858
+Acceptance rate
+0.3643137254901961
+Deviation
+0.038461538461538464
+Beta
+52.8875
+Lowest Energy
+-8.3219
+Iterations
+5200
+Accepted
+1904
+Acceptance rate
+0.36615384615384616
+Deviation
+0.03773584905660377
+Beta
+61.05000000000001
+Lowest Energy
+-8.3555
+Iterations
+5300
+Accepted
+1928
+Acceptance rate
+0.36377358490566036
+Deviation
+0.037037037037037035
+Beta
+59.55000000000001
+Lowest Energy
+-8.4526
+Iterations
+5400
+Accepted
+1957
+Acceptance rate
+0.3624074074074074
+Deviation
+0.03636363636363636
+Beta
+55.925000000000004
+Lowest Energy
+-8.4861
+Iterations
+5500
+Accepted
+1985
+Acceptance rate
+0.3609090909090909
+Deviation
+0.03571428571428571
+Beta
+68.62500000000001
+Lowest Energy
+-8.4625
+Iterations
+5600
+Accepted
+2004
+Acceptance rate
+0.3578571428571429
+Deviation
+0.03508771929824561
+Beta
+57.25000000000001
+Lowest Energy
+-8.5019
+Iterations
+5700
+Accepted
+2021
+Acceptance rate
+0.3545614035087719
+Deviation
+0.034482758620689655
+Beta
+65.375
+Lowest Energy
+-8.5149
+Iterations
+5800
+Accepted
+2039
+Acceptance rate
+0.351551724137931
+Deviation
+0.03389830508474576
+Beta
+65.05000000000001
+Lowest Energy
+-8.513300000000001
+Iterations
+5900
+Accepted
+2082
+Acceptance rate
+0.3528813559322034
+Deviation
+0.03333333333333333
+Beta
+68.36250000000001
+Lowest Energy
+-8.3784
+Iterations
+6000
+Accepted
+2103
+Acceptance rate
+0.3505
+Deviation
+0.03278688524590164
+Beta
+66.5
+Lowest Energy
+-8.4301
+Iterations
+6100
+Accepted
+2123
+Acceptance rate
+0.3480327868852459
+Deviation
+0.03225806451612903
+Beta
+63.775000000000006
+Lowest Energy
+-8.467
+Iterations
+6200
+Accepted
+2123
+Acceptance rate
+0.34241935483870967
+Deviation
+0.031746031746031744
+Beta
+70.22500000000001
+Lowest Energy
+-8.467
+Iterations
+6300
+Accepted
+2140
+Acceptance rate
+0.3396825396825397
+Deviation
+0.03125
+Beta
+75.27500000000002
+Lowest Energy
+-8.457799999999999
+Iterations
+6400
+Accepted
+2150
+Acceptance rate
+0.3359375
+Deviation
+0.03076923076923077
+Beta
+66.05000000000001
+Lowest Energy
+-8.5043
+Iterations
+6500
+Accepted
+2154
+Acceptance rate
+0.3313846153846154
+Deviation
+0.030303030303030304
+Beta
+76.00000000000001
+Lowest Energy
+-8.5164
+Iterations
+6600
+Accepted
+2162
+Acceptance rate
+0.3275757575757576
+Deviation
+0.029850746268656716
+Beta
+77.15000000000002
+Lowest Energy
+-8.5103
+Iterations
+6700
+Accepted
+2189
+Acceptance rate
+0.32671641791044775
+Deviation
+0.029411764705882353
+Beta
+75.78750000000001
+Lowest Energy
+-8.4283
+Iterations
+6800
+Accepted
+2211
+Acceptance rate
+0.3251470588235294
+Deviation
+0.028985507246376812
+Beta
+79.45000000000002
+Lowest Energy
+-8.5201
+Iterations
+6900
+Accepted
+2220
+Acceptance rate
+0.3217391304347826
+Deviation
+0.02857142857142857
+Beta
+80.60000000000002
+Lowest Energy
+-8.519
+Iterations
+7000
+Accepted
+2225
+Acceptance rate
+0.31785714285714284
+Deviation
+0.028169014084507043
+Beta
+80.87500000000003
+Lowest Energy
+-8.5359
+Iterations
+7100
+Accepted
+2245
+Acceptance rate
+0.31619718309859157
+Deviation
+0.027777777777777776
+Beta
+82.01250000000002
+Lowest Energy
+-8.5685
+Iterations
+7200
+Accepted
+2264
+Acceptance rate
+0.31444444444444447
+Deviation
+0.0273972602739726
+Beta
+85.85000000000001
+Lowest Energy
+-8.5661
+Iterations
+7300
+Accepted
+2283
+Acceptance rate
+0.31273972602739725
+Deviation
+0.02702702702702703
+Beta
+87.02500000000002
+Lowest Energy
+-8.6352
+Iterations
+7400
+Accepted
+2293
+Acceptance rate
+0.30986486486486486
+Deviation
+0.02666666666666667
+Beta
+84.50000000000001
+Lowest Energy
+-8.657
+Iterations
+7500
+Accepted
+2293
+Acceptance rate
+0.30573333333333336
+Deviation
+0.02631578947368421
+Beta
+93.12500000000001
+Lowest Energy
+-8.657
+Iterations
+7600
+Accepted
+2296
+Acceptance rate
+0.3021052631578947
+Deviation
+0.025974025974025976
+Beta
+82.00000000000001
+Lowest Energy
+-8.664
+Iterations
+7700
+Accepted
+2305
+Acceptance rate
+0.29935064935064937
+Deviation
+0.02564102564102564
+Beta
+87.87500000000001
+Lowest Energy
+-8.633600000000001
+Iterations
+7800
+Accepted
+2317
+Acceptance rate
+0.29705128205128206
+Deviation
+0.02531645569620253
+Beta
+93.87500000000001
+Lowest Energy
+-8.6271
+Iterations
+7900
+Accepted
+2319
+Acceptance rate
+0.2935443037974684
+Deviation
+0.025
+Beta
+87.16250000000001
+Lowest Energy
+-8.664200000000001
+Iterations
+8000
+Accepted
+2322
+Acceptance rate
+0.29025
+Deviation
+0.024691358024691357
+Beta
+84.25
+Lowest Energy
+-8.6126
+Iterations
+8100
+Accepted
+2347
+Acceptance rate
+0.28975308641975306
+Deviation
+0.024390243902439025
+Beta
+97.43750000000003
+Lowest Energy
+-8.6261
+Iterations
+8200
+Accepted
+2352
+Acceptance rate
+0.2868292682926829
+Deviation
+0.024096385542168676
+Beta
+84.275
+Lowest Energy
+-8.6228
+Iterations
+8300
+Accepted
+2354
+Acceptance rate
+0.28361445783132533
+Deviation
+0.023809523809523808
+Beta
+85.28750000000001
+Lowest Energy
+-8.607800000000001
+Iterations
+8400
+Accepted
+2375
+Acceptance rate
+0.28273809523809523
+Deviation
+0.023529411764705882
+Beta
+96.80000000000001
+Lowest Energy
+-8.6128
+Iterations
+8500
+Accepted
+2379
+Acceptance rate
+0.27988235294117647
+Deviation
+0.023255813953488372
+Beta
+94.75000000000001
+Lowest Energy
+-8.619
+Iterations
+8600
+Accepted
+2386
+Acceptance rate
+0.27744186046511626
+Deviation
+0.022988505747126436
+Beta
+101.22500000000002
+Lowest Energy
+-8.6176
+Iterations
+8700
+Accepted
+2396
+Acceptance rate
+0.2754022988505747
+Deviation
+0.022727272727272728
+Beta
+105.65
+Lowest Energy
+-8.5994
+Iterations
+8800
+Accepted
+2402
+Acceptance rate
+0.27295454545454545
+Deviation
+0.02247191011235955
+Beta
+95.85000000000001
+Lowest Energy
+-8.5894
+Iterations
+8900
+Accepted
+2419
+Acceptance rate
+0.27179775280898877
+Deviation
+0.022222222222222223
+Beta
+99.15
+Lowest Energy
+-8.6018
+Iterations
+9000
+Accepted
+2434
+Acceptance rate
+0.27044444444444443
+Deviation
+0.02197802197802198
+Beta
+95.75000000000001
+Lowest Energy
+-8.605699999999999
+Iterations
+9100
+Accepted
+2448
+Acceptance rate
+0.269010989010989
+Deviation
+0.021739130434782608
+Beta
+92.25
+Lowest Energy
+-8.6284
+Iterations
+9200
+Accepted
+2462
+Acceptance rate
+0.26760869565217393
+Deviation
+0.021505376344086023
+Beta
+94.4
+Lowest Energy
+-8.6495
+Iterations
+9300
+Accepted
+2471
+Acceptance rate
+0.2656989247311828
+Deviation
+0.02127659574468085
+Beta
+95.4125
+Lowest Energy
+-8.6224
+Iterations
+9400
+Accepted
+2494
+Acceptance rate
+0.2653191489361702
+Deviation
+0.021052631578947368
+Beta
+110.52500000000002
+Lowest Energy
+-8.5465
+Iterations
+9500
+Accepted
+2514
+Acceptance rate
+0.26463157894736844
+Deviation
+0.020833333333333332
+Beta
+116.43750000000003
+Lowest Energy
+-8.6268
+Iterations
+9600
+Accepted
+2525
+Acceptance rate
+0.2630208333333333
+Deviation
+0.020618556701030927
+Beta
+102.05000000000001
+Lowest Energy
+-8.6311
+Iterations
+9700
+Accepted
+2526
+Acceptance rate
+0.2604123711340206
+Deviation
+0.02040816326530612
+Beta
+98.25000000000001
+Lowest Energy
+-8.6328
+Iterations
+9800
+Accepted
+2534
+Acceptance rate
+0.25857142857142856
+Deviation
+0.020202020202020204
+Beta
+110.27500000000002
+Lowest Energy
+-8.6528
+Iterations
+9900
+Accepted
+2540
+Acceptance rate
+0.25656565656565655
+Deviation
+0.02
+Beta
+120.05000000000003
+Lowest Energy
+-8.6692
+Iterations
+10000
+Accepted
+2544
+Acceptance rate
+0.2544
+Deviation
+0.019801980198019802
+Beta
+120.00000000000001
+Lowest Energy
+-8.664299999999999
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.7372000000000001
+Iterations
+100
+Accepted
+73
+Acceptance rate
+0.73
+Deviation
+1.0
+Beta
+2.4625000000000004
+Lowest Energy
+-1.5273999999999999
+Iterations
+200
+Accepted
+106
+Acceptance rate
+0.53
+Deviation
+0.6666666666666666
+Beta
+3.325
+Lowest Energy
+-2.9422
+Iterations
+300
+Accepted
+149
+Acceptance rate
+0.49666666666666665
+Deviation
+0.5
+Beta
+4.4
+Lowest Energy
+-1.31
+Iterations
+400
+Accepted
+199
+Acceptance rate
+0.4975
+Deviation
+0.4
+Beta
+5.3500000000000005
+Lowest Energy
+-1.0562
+Iterations
+500
+Accepted
+245
+Acceptance rate
+0.49
+Deviation
+0.3333333333333333
+Beta
+6.875000000000001
+Lowest Energy
+-3.2851999999999997
+Iterations
+600
+Accepted
+277
+Acceptance rate
+0.46166666666666667
+Deviation
+0.2857142857142857
+Beta
+7.625000000000001
+Lowest Energy
+-3.8438
+Iterations
+700
+Accepted
+318
+Acceptance rate
+0.4542857142857143
+Deviation
+0.25
+Beta
+9.650000000000002
+Lowest Energy
+-5.105700000000001
+Iterations
+800
+Accepted
+354
+Acceptance rate
+0.4425
+Deviation
+0.2222222222222222
+Beta
+9.55
+Lowest Energy
+-6.1523
+Iterations
+900
+Accepted
+384
+Acceptance rate
+0.4266666666666667
+Deviation
+0.2
+Beta
+12.162500000000003
+Lowest Energy
+-6.515000000000001
+Iterations
+1000
+Accepted
+419
+Acceptance rate
+0.419
+Deviation
+0.18181818181818182
+Beta
+12.25
+Lowest Energy
+-7.2166
+Iterations
+1100
+Accepted
+440
+Acceptance rate
+0.4
+Deviation
+0.16666666666666666
+Beta
+14.175000000000002
+Lowest Energy
+-6.8809000000000005
+Iterations
+1200
+Accepted
+468
+Acceptance rate
+0.39
+Deviation
+0.15384615384615385
+Beta
+14.3
+Lowest Energy
+-7.5722
+Iterations
+1300
+Accepted
+501
+Acceptance rate
+0.3853846153846154
+Deviation
+0.14285714285714285
+Beta
+16.3625
+Lowest Energy
+-7.1302
+Iterations
+1400
+Accepted
+528
+Acceptance rate
+0.37714285714285717
+Deviation
+0.13333333333333333
+Beta
+16.3
+Lowest Energy
+-7.1868
+Iterations
+1500
+Accepted
+566
+Acceptance rate
+0.37733333333333335
+Deviation
+0.125
+Beta
+17.5625
+Lowest Energy
+-7.3378
+Iterations
+1600
+Accepted
+596
+Acceptance rate
+0.3725
+Deviation
+0.11764705882352941
+Beta
+18.450000000000003
+Lowest Energy
+-7.3284
+Iterations
+1700
+Accepted
+631
+Acceptance rate
+0.3711764705882353
+Deviation
+0.1111111111111111
+Beta
+21.437500000000004
+Lowest Energy
+-7.1853
+Iterations
+1800
+Accepted
+671
+Acceptance rate
+0.37277777777777776
+Deviation
+0.10526315789473684
+Beta
+20.600000000000005
+Lowest Energy
+-7.3612
+Iterations
+1900
+Accepted
+704
+Acceptance rate
+0.3705263157894737
+Deviation
+0.1
+Beta
+21.200000000000003
+Lowest Energy
+-7.8809
+Iterations
+2000
+Accepted
+747
+Acceptance rate
+0.3735
+Deviation
+0.09523809523809523
+Beta
+23.500000000000007
+Lowest Energy
+-7.962
+Iterations
+2100
+Accepted
+785
+Acceptance rate
+0.3738095238095238
+Deviation
+0.09090909090909091
+Beta
+22.25
+Lowest Energy
+-7.869299999999999
+Iterations
+2200
+Accepted
+824
+Acceptance rate
+0.37454545454545457
+Deviation
+0.08695652173913043
+Beta
+23.800000000000004
+Lowest Energy
+-8.0991
+Iterations
+2300
+Accepted
+864
+Acceptance rate
+0.37565217391304345
+Deviation
+0.08333333333333333
+Beta
+29.425000000000008
+Lowest Energy
+-8.0151
+Iterations
+2400
+Accepted
+889
+Acceptance rate
+0.37041666666666667
+Deviation
+0.08
+Beta
+30.350000000000005
+Lowest Energy
+-8.2895
+Iterations
+2500
+Accepted
+928
+Acceptance rate
+0.3712
+Deviation
+0.07692307692307693
+Beta
+27.812500000000004
+Lowest Energy
+-8.1416
+Iterations
+2600
+Accepted
+958
+Acceptance rate
+0.36846153846153845
+Deviation
+0.07407407407407407
+Beta
+29.85
+Lowest Energy
+-8.3033
+Iterations
+2700
+Accepted
+986
+Acceptance rate
+0.36518518518518517
+Deviation
+0.07142857142857142
+Beta
+34.325
+Lowest Energy
+-8.367
+Iterations
+2800
+Accepted
+1018
+Acceptance rate
+0.36357142857142855
+Deviation
+0.06896551724137931
+Beta
+30.650000000000006
+Lowest Energy
+-8.2835
+Iterations
+2900
+Accepted
+1054
+Acceptance rate
+0.36344827586206896
+Deviation
+0.06666666666666667
+Beta
+30.612500000000004
+Lowest Energy
+-8.0681
+Iterations
+3000
+Accepted
+1093
+Acceptance rate
+0.36433333333333334
+Deviation
+0.06451612903225806
+Beta
+38.00000000000001
+Lowest Energy
+-8.1893
+Iterations
+3100
+Accepted
+1120
+Acceptance rate
+0.36129032258064514
+Deviation
+0.0625
+Beta
+34.962500000000006
+Lowest Energy
+-8.2568
+Iterations
+3200
+Accepted
+1152
+Acceptance rate
+0.36
+Deviation
+0.06060606060606061
+Beta
+38.45
+Lowest Energy
+-8.2781
+Iterations
+3300
+Accepted
+1179
+Acceptance rate
+0.3572727272727273
+Deviation
+0.058823529411764705
+Beta
+38.375
+Lowest Energy
+-8.241800000000001
+Iterations
+3400
+Accepted
+1213
+Acceptance rate
+0.35676470588235293
+Deviation
+0.05714285714285714
+Beta
+36.1
+Lowest Energy
+-8.2674
+Iterations
+3500
+Accepted
+1259
+Acceptance rate
+0.3597142857142857
+Deviation
+0.05555555555555555
+Beta
+42.81250000000001
+Lowest Energy
+-8.2754
+Iterations
+3600
+Accepted
+1285
+Acceptance rate
+0.35694444444444445
+Deviation
+0.05405405405405406
+Beta
+40.85000000000001
+Lowest Energy
+-8.3736
+Iterations
+3700
+Accepted
+1318
+Acceptance rate
+0.35621621621621624
+Deviation
+0.05263157894736842
+Beta
+42.41250000000001
+Lowest Energy
+-8.095600000000001
+Iterations
+3800
+Accepted
+1350
+Acceptance rate
+0.35526315789473684
+Deviation
+0.05128205128205128
+Beta
+46.375000000000014
+Lowest Energy
+-8.2673
+Iterations
+3900
+Accepted
+1378
+Acceptance rate
+0.35333333333333333
+Deviation
+0.05
+Beta
+45.61250000000001
+Lowest Energy
+-8.3004
+Iterations
+4000
+Accepted
+1403
+Acceptance rate
+0.35075
+Deviation
+0.04878048780487805
+Beta
+42.25000000000001
+Lowest Energy
+-8.1825
+Iterations
+4100
+Accepted
+1427
+Acceptance rate
+0.34804878048780485
+Deviation
+0.047619047619047616
+Beta
+42.7625
+Lowest Energy
+-8.077
+Iterations
+4200
+Accepted
+1456
+Acceptance rate
+0.3466666666666667
+Deviation
+0.046511627906976744
+Beta
+51.650000000000006
+Lowest Energy
+-8.2243
+Iterations
+4300
+Accepted
+1462
+Acceptance rate
+0.34
+Deviation
+0.045454545454545456
+Beta
+44.78750000000001
+Lowest Energy
+-8.3376
+Iterations
+4400
+Accepted
+1489
+Acceptance rate
+0.3384090909090909
+Deviation
+0.044444444444444446
+Beta
+52.40000000000001
+Lowest Energy
+-8.3615
+Iterations
+4500
+Accepted
+1505
+Acceptance rate
+0.33444444444444443
+Deviation
+0.043478260869565216
+Beta
+53.562500000000014
+Lowest Energy
+-8.454699999999999
+Iterations
+4600
+Accepted
+1529
+Acceptance rate
+0.3323913043478261
+Deviation
+0.0425531914893617
+Beta
+51.275000000000006
+Lowest Energy
+-8.1893
+Iterations
+4700
+Accepted
+1568
+Acceptance rate
+0.33361702127659576
+Deviation
+0.041666666666666664
+Beta
+52.95000000000001
+Lowest Energy
+-8.1803
+Iterations
+4800
+Accepted
+1607
+Acceptance rate
+0.33479166666666665
+Deviation
+0.04081632653061224
+Beta
+57.05000000000001
+Lowest Energy
+-8.4756
+Iterations
+4900
+Accepted
+1638
+Acceptance rate
+0.3342857142857143
+Deviation
+0.04
+Beta
+52.087500000000006
+Lowest Energy
+-8.4575
+Iterations
+5000
+Accepted
+1673
+Acceptance rate
+0.3346
+Deviation
+0.0392156862745098
+Beta
+51.25
+Lowest Energy
+-8.3583
+Iterations
+5100
+Accepted
+1710
+Acceptance rate
+0.3352941176470588
+Deviation
+0.038461538461538464
+Beta
+57.98750000000001
+Lowest Energy
+-8.3641
+Iterations
+5200
+Accepted
+1732
+Acceptance rate
+0.3330769230769231
+Deviation
+0.03773584905660377
+Beta
+58.45
+Lowest Energy
+-8.4916
+Iterations
+5300
+Accepted
+1764
+Acceptance rate
+0.3328301886792453
+Deviation
+0.037037037037037035
+Beta
+58.88750000000001
+Lowest Energy
+-8.485700000000001
+Iterations
+5400
+Accepted
+1797
+Acceptance rate
+0.3327777777777778
+Deviation
+0.03636363636363636
+Beta
+64.70000000000002
+Lowest Energy
+-8.5121
+Iterations
+5500
+Accepted
+1814
+Acceptance rate
+0.32981818181818184
+Deviation
+0.03571428571428571
+Beta
+56.25
+Lowest Energy
+-8.518
+Iterations
+5600
+Accepted
+1832
+Acceptance rate
+0.3271428571428571
+Deviation
+0.03508771929824561
+Beta
+68.45000000000002
+Lowest Energy
+-8.4675
+Iterations
+5700
+Accepted
+1858
+Acceptance rate
+0.32596491228070174
+Deviation
+0.034482758620689655
+Beta
+71.07500000000002
+Lowest Energy
+-8.5278
+Iterations
+5800
+Accepted
+1874
+Acceptance rate
+0.32310344827586207
+Deviation
+0.03389830508474576
+Beta
+61.425
+Lowest Energy
+-8.569199999999999
+Iterations
+5900
+Accepted
+1894
+Acceptance rate
+0.32101694915254236
+Deviation
+0.03333333333333333
+Beta
+72.05000000000001
+Lowest Energy
+-8.589400000000001
+Iterations
+6000
+Accepted
+1910
+Acceptance rate
+0.31833333333333336
+Deviation
+0.03278688524590164
+Beta
+73.25000000000001
+Lowest Energy
+-8.5785
+Iterations
+6100
+Accepted
+1930
+Acceptance rate
+0.3163934426229508
+Deviation
+0.03225806451612903
+Beta
+75.97500000000002
+Lowest Energy
+-8.5274
+Iterations
+6200
+Accepted
+1942
+Acceptance rate
+0.3132258064516129
+Deviation
+0.031746031746031744
+Beta
+72.55000000000001
+Lowest Energy
+-8.581399999999999
+Iterations
+6300
+Accepted
+1947
+Acceptance rate
+0.30904761904761907
+Deviation
+0.03125
+Beta
+65.0375
+Lowest Energy
+-8.596599999999999
+Iterations
+6400
+Accepted
+1963
+Acceptance rate
+0.30671875
+Deviation
+0.03076923076923077
+Beta
+66.85000000000001
+Lowest Energy
+-8.6698
+Iterations
+6500
+Accepted
+1968
+Acceptance rate
+0.3027692307692308
+Deviation
+0.030303030303030304
+Beta
+76.81250000000001
+Lowest Energy
+-8.6409
+Iterations
+6600
+Accepted
+1979
+Acceptance rate
+0.29984848484848486
+Deviation
+0.029850746268656716
+Beta
+67.25
+Lowest Energy
+-8.5897
+Iterations
+6700
+Accepted
+2009
+Acceptance rate
+0.2998507462686567
+Deviation
+0.029411764705882353
+Beta
+74.95000000000002
+Lowest Energy
+-8.4648
+Iterations
+6800
+Accepted
+2036
+Acceptance rate
+0.2994117647058824
+Deviation
+0.028985507246376812
+Beta
+69.25
+Lowest Energy
+-8.4056
+Iterations
+6900
+Accepted
+2054
+Acceptance rate
+0.29768115942028983
+Deviation
+0.02857142857142857
+Beta
+78.87500000000001
+Lowest Energy
+-8.384
+Iterations
+7000
+Accepted
+2070
+Acceptance rate
+0.2957142857142857
+Deviation
+0.028169014084507043
+Beta
+77.375
+Lowest Energy
+-8.441699999999999
+Iterations
+7100
+Accepted
+2090
+Acceptance rate
+0.2943661971830986
+Deviation
+0.027777777777777776
+Beta
+86.45000000000002
+Lowest Energy
+-8.3609
+Iterations
+7200
+Accepted
+2103
+Acceptance rate
+0.2920833333333333
+Deviation
+0.0273972602739726
+Beta
+85.85000000000001
+Lowest Energy
+-8.4701
+Iterations
+7300
+Accepted
+2116
+Acceptance rate
+0.28986301369863016
+Deviation
+0.02702702702702703
+Beta
+78.8125
+Lowest Energy
+-8.4556
+Iterations
+7400
+Accepted
+2117
+Acceptance rate
+0.2860810810810811
+Deviation
+0.02666666666666667
+Beta
+78.025
+Lowest Energy
+-8.4878
+Iterations
+7500
+Accepted
+2120
+Acceptance rate
+0.2826666666666667
+Deviation
+0.02631578947368421
+Beta
+78.12500000000001
+Lowest Energy
+-8.4925
+Iterations
+7600
+Accepted
+2127
+Acceptance rate
+0.2798684210526316
+Deviation
+0.025974025974025976
+Beta
+88.65000000000002
+Lowest Energy
+-8.525099999999998
+Iterations
+7700
+Accepted
+2138
+Acceptance rate
+0.27766233766233767
+Deviation
+0.02564102564102564
+Beta
+81.13749999999999
+Lowest Energy
+-8.5343
+Iterations
+7800
+Accepted
+2142
+Acceptance rate
+0.2746153846153846
+Deviation
+0.02531645569620253
+Beta
+85.10000000000002
+Lowest Energy
+-8.5281
+Iterations
+7900
+Accepted
+2161
+Acceptance rate
+0.27354430379746836
+Deviation
+0.025
+Beta
+91.11250000000001
+Lowest Energy
+-8.5267
+Iterations
+8000
+Accepted
+2185
+Acceptance rate
+0.273125
+Deviation
+0.024691358024691357
+Beta
+86.25
+Lowest Energy
+-8.6008
+Iterations
+8100
+Accepted
+2200
+Acceptance rate
+0.2716049382716049
+Deviation
+0.024390243902439025
+Beta
+86.30000000000001
+Lowest Energy
+-8.5378
+Iterations
+8200
+Accepted
+2217
+Acceptance rate
+0.2703658536585366
+Deviation
+0.024096385542168676
+Beta
+87.35000000000001
+Lowest Energy
+-8.5491
+Iterations
+8300
+Accepted
+2221
+Acceptance rate
+0.26759036144578313
+Deviation
+0.023809523809523808
+Beta
+85.28750000000001
+Lowest Energy
+-8.5516
+Iterations
+8400
+Accepted
+2242
+Acceptance rate
+0.2669047619047619
+Deviation
+0.023529411764705882
+Beta
+88.4
+Lowest Energy
+-8.5943
+Iterations
+8500
+Accepted
+2245
+Acceptance rate
+0.2641176470588235
+Deviation
+0.023255813953488372
+Beta
+103.25000000000003
+Lowest Energy
+-8.5868
+Iterations
+8600
+Accepted
+2258
+Acceptance rate
+0.2625581395348837
+Deviation
+0.022988505747126436
+Beta
+90.47500000000001
+Lowest Energy
+-8.6112
+Iterations
+8700
+Accepted
+2269
+Acceptance rate
+0.26080459770114944
+Deviation
+0.022727272727272728
+Beta
+99.12500000000001
+Lowest Energy
+-8.6588
+Iterations
+8800
+Accepted
+2274
+Acceptance rate
+0.2584090909090909
+Deviation
+0.02247191011235955
+Beta
+92.55000000000001
+Lowest Energy
+-8.671
+Iterations
+8900
+Accepted
+2287
+Acceptance rate
+0.25696629213483146
+Deviation
+0.022222222222222223
+Beta
+96.92500000000001
+Lowest Energy
+-8.5986
+Iterations
+9000
+Accepted
+2302
+Acceptance rate
+0.25577777777777777
+Deviation
+0.02197802197802198
+Beta
+109.25000000000003
+Lowest Energy
+-8.6104
+Iterations
+9100
+Accepted
+2306
+Acceptance rate
+0.2534065934065934
+Deviation
+0.021739130434782608
+Beta
+92.25
+Lowest Energy
+-8.6379
+Iterations
+9200
+Accepted
+2308
+Acceptance rate
+0.2508695652173913
+Deviation
+0.021505376344086023
+Beta
+105.90000000000002
+Lowest Energy
+-8.632200000000001
+Iterations
+9300
+Accepted
+2318
+Acceptance rate
+0.24924731182795698
+Deviation
+0.02127659574468085
+Beta
+112.85000000000002
+Lowest Energy
+-8.6434
+Iterations
+9400
+Accepted
+2333
+Acceptance rate
+0.24819148936170213
+Deviation
+0.021052631578947368
+Beta
+108.17500000000003
+Lowest Energy
+-8.5928
+Iterations
+9500
+Accepted
+2349
+Acceptance rate
+0.24726315789473685
+Deviation
+0.020833333333333332
+Beta
+116.43750000000003
+Lowest Energy
+-8.645800000000001
+Iterations
+9600
+Accepted
+2362
+Acceptance rate
+0.24604166666666666
+Deviation
+0.020618556701030927
+Beta
+102.05000000000001
+Lowest Energy
+-8.6182
+Iterations
+9700
+Accepted
+2376
+Acceptance rate
+0.24494845360824744
+Deviation
+0.02040816326530612
+Beta
+109.16250000000002
+Lowest Energy
+-8.564
+Iterations
+9800
+Accepted
+2400
+Acceptance rate
+0.24489795918367346
+Deviation
+0.020202020202020204
+Beta
+120.07500000000002
+Lowest Energy
+-8.506499999999999
+Iterations
+9900
+Accepted
+2403
+Acceptance rate
+0.24272727272727274
+Deviation
+0.02
+Beta
+110.15
+Lowest Energy
+-8.5419
+Iterations
+10000
+Accepted
+2415
+Acceptance rate
+0.2415
+Deviation
+0.019801980198019802
+Beta
+112.50000000000001
+Lowest Energy
+-8.517900000000001
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.6843
+Iterations
+100
+Accepted
+68
+Acceptance rate
+0.68
+Deviation
+1.0
+Beta
+2.3625000000000003
+Lowest Energy
+-1.6284
+Iterations
+200
+Accepted
+128
+Acceptance rate
+0.64
+Deviation
+0.6666666666666666
+Beta
+3.5250000000000004
+Lowest Energy
+-1.0563
+Iterations
+300
+Accepted
+177
+Acceptance rate
+0.59
+Deviation
+0.5
+Beta
+4.700000000000001
+Lowest Energy
+-3.6223
+Iterations
+400
+Accepted
+214
+Acceptance rate
+0.535
+Deviation
+0.4
+Beta
+5.550000000000001
+Lowest Energy
+-3.2864
+Iterations
+500
+Accepted
+254
+Acceptance rate
+0.508
+Deviation
+0.3333333333333333
+Beta
+6.312500000000001
+Lowest Energy
+-3.8434
+Iterations
+600
+Accepted
+289
+Acceptance rate
+0.4816666666666667
+Deviation
+0.2857142857142857
+Beta
+7.625000000000001
+Lowest Energy
+-3.9304
+Iterations
+700
+Accepted
+324
+Acceptance rate
+0.46285714285714286
+Deviation
+0.25
+Beta
+9.650000000000002
+Lowest Energy
+-5.1546
+Iterations
+800
+Accepted
+354
+Acceptance rate
+0.4425
+Deviation
+0.2222222222222222
+Beta
+10.750000000000002
+Lowest Energy
+-5.1583000000000006
+Iterations
+900
+Accepted
+388
+Acceptance rate
+0.4311111111111111
+Deviation
+0.2
+Beta
+10.5875
+Lowest Energy
+-6.3265
+Iterations
+1000
+Accepted
+429
+Acceptance rate
+0.429
+Deviation
+0.18181818181818182
+Beta
+13.125000000000002
+Lowest Energy
+-6.3916
+Iterations
+1100
+Accepted
+467
+Acceptance rate
+0.42454545454545456
+Deviation
+0.16666666666666666
+Beta
+13.2125
+Lowest Energy
+-6.710700000000001
+Iterations
+1200
+Accepted
+504
+Acceptance rate
+0.42
+Deviation
+0.15384615384615385
+Beta
+13.4
+Lowest Energy
+-7.7058
+Iterations
+1300
+Accepted
+537
+Acceptance rate
+0.41307692307692306
+Deviation
+0.14285714285714285
+Beta
+15.225000000000001
+Lowest Energy
+-7.5176
+Iterations
+1400
+Accepted
+564
+Acceptance rate
+0.40285714285714286
+Deviation
+0.13333333333333333
+Beta
+17.35
+Lowest Energy
+-7.349399999999999
+Iterations
+1500
+Accepted
+588
+Acceptance rate
+0.392
+Deviation
+0.125
+Beta
+18.312500000000004
+Lowest Energy
+-7.3787
+Iterations
+1600
+Accepted
+620
+Acceptance rate
+0.3875
+Deviation
+0.11764705882352941
+Beta
+18.450000000000003
+Lowest Energy
+-7.328
+Iterations
+1700
+Accepted
+653
+Acceptance rate
+0.3841176470588235
+Deviation
+0.1111111111111111
+Beta
+20.8
+Lowest Energy
+-7.4663
+Iterations
+1800
+Accepted
+689
+Acceptance rate
+0.3827777777777778
+Deviation
+0.10526315789473684
+Beta
+20.375
+Lowest Energy
+-7.7972
+Iterations
+1900
+Accepted
+724
+Acceptance rate
+0.38105263157894737
+Deviation
+0.1
+Beta
+22.150000000000002
+Lowest Energy
+-7.716100000000001
+Iterations
+2000
+Accepted
+755
+Acceptance rate
+0.3775
+Deviation
+0.09523809523809523
+Beta
+25.000000000000004
+Lowest Energy
+-7.7958
+Iterations
+2100
+Accepted
+785
+Acceptance rate
+0.3738095238095238
+Deviation
+0.09090909090909091
+Beta
+23.5625
+Lowest Energy
+-7.7958
+Iterations
+2200
+Accepted
+825
+Acceptance rate
+0.375
+Deviation
+0.08695652173913043
+Beta
+23.25
+Lowest Energy
+-7.646599999999999
+Iterations
+2300
+Accepted
+864
+Acceptance rate
+0.37565217391304345
+Deviation
+0.08333333333333333
+Beta
+24.5375
+Lowest Energy
+-7.9223
+Iterations
+2400
+Accepted
+908
+Acceptance rate
+0.37833333333333335
+Deviation
+0.08
+Beta
+25.250000000000004
+Lowest Energy
+-8.3463
+Iterations
+2500
+Accepted
+934
+Acceptance rate
+0.3736
+Deviation
+0.07692307692307693
+Beta
+30.312500000000004
+Lowest Energy
+-8.0015
+Iterations
+2600
+Accepted
+964
+Acceptance rate
+0.3707692307692308
+Deviation
+0.07407407407407407
+Beta
+31.475000000000005
+Lowest Energy
+-8.249199999999998
+Iterations
+2700
+Accepted
+989
+Acceptance rate
+0.3662962962962963
+Deviation
+0.07142857142857142
+Beta
+29.600000000000005
+Lowest Energy
+-8.0319
+Iterations
+2800
+Accepted
+1024
+Acceptance rate
+0.3657142857142857
+Deviation
+0.06896551724137931
+Beta
+34.150000000000006
+Lowest Energy
+-8.070599999999999
+Iterations
+2900
+Accepted
+1051
+Acceptance rate
+0.3624137931034483
+Deviation
+0.06666666666666667
+Beta
+32.425000000000004
+Lowest Energy
+-8.2616
+Iterations
+3000
+Accepted
+1085
+Acceptance rate
+0.3616666666666667
+Deviation
+0.06451612903225806
+Beta
+32.75
+Lowest Energy
+-8.0243
+Iterations
+3100
+Accepted
+1122
+Acceptance rate
+0.36193548387096774
+Deviation
+0.0625
+Beta
+36.5125
+Lowest Energy
+-7.8739
+Iterations
+3200
+Accepted
+1155
+Acceptance rate
+0.3609375
+Deviation
+0.06060606060606061
+Beta
+40.45000000000001
+Lowest Energy
+-7.961
+Iterations
+3300
+Accepted
+1179
+Acceptance rate
+0.3572727272727273
+Deviation
+0.058823529411764705
+Beta
+37.962500000000006
+Lowest Energy
+-8.0912
+Iterations
+3400
+Accepted
+1223
+Acceptance rate
+0.35970588235294115
+Deviation
+0.05714285714285714
+Beta
+35.25
+Lowest Energy
+-8.1379
+Iterations
+3500
+Accepted
+1248
+Acceptance rate
+0.3565714285714286
+Deviation
+0.05555555555555555
+Beta
+37.125
+Lowest Energy
+-8.0892
+Iterations
+3600
+Accepted
+1271
+Acceptance rate
+0.35305555555555557
+Deviation
+0.05405405405405406
+Beta
+40.400000000000006
+Lowest Energy
+-8.0497
+Iterations
+3700
+Accepted
+1301
+Acceptance rate
+0.35162162162162164
+Deviation
+0.05263157894736842
+Beta
+46.11250000000001
+Lowest Energy
+-8.184099999999999
+Iterations
+3800
+Accepted
+1332
+Acceptance rate
+0.3505263157894737
+Deviation
+0.05128205128205128
+Beta
+44.95000000000001
+Lowest Energy
+-8.2727
+Iterations
+3900
+Accepted
+1360
+Acceptance rate
+0.3487179487179487
+Deviation
+0.05
+Beta
+41.22500000000001
+Lowest Energy
+-8.196200000000001
+Iterations
+4000
+Accepted
+1408
+Acceptance rate
+0.352
+Deviation
+0.04878048780487805
+Beta
+41.75000000000001
+Lowest Energy
+-8.322
+Iterations
+4100
+Accepted
+1446
+Acceptance rate
+0.3526829268292683
+Deviation
+0.047619047619047616
+Beta
+44.300000000000004
+Lowest Energy
+-8.487400000000001
+Iterations
+4200
+Accepted
+1481
+Acceptance rate
+0.3526190476190476
+Deviation
+0.046511627906976744
+Beta
+43.25
+Lowest Energy
+-8.394
+Iterations
+4300
+Accepted
+1508
+Acceptance rate
+0.35069767441860467
+Deviation
+0.045454545454545456
+Beta
+48.550000000000004
+Lowest Energy
+-8.324
+Iterations
+4400
+Accepted
+1525
+Acceptance rate
+0.3465909090909091
+Deviation
+0.044444444444444446
+Beta
+50.2
+Lowest Energy
+-8.279
+Iterations
+4500
+Accepted
+1571
+Acceptance rate
+0.3491111111111111
+Deviation
+0.043478260869565216
+Beta
+46.8125
+Lowest Energy
+-8.4532
+Iterations
+4600
+Accepted
+1604
+Acceptance rate
+0.348695652173913
+Deviation
+0.0425531914893617
+Beta
+50.7
+Lowest Energy
+-8.548
+Iterations
+4700
+Accepted
+1641
+Acceptance rate
+0.34914893617021275
+Deviation
+0.041666666666666664
+Beta
+56.47500000000001
+Lowest Energy
+-8.416
+Iterations
+4800
+Accepted
+1661
+Acceptance rate
+0.3460416666666667
+Deviation
+0.04081632653061224
+Beta
+50.45
+Lowest Energy
+-8.4047
+Iterations
+4900
+Accepted
+1690
+Acceptance rate
+0.3448979591836735
+Deviation
+0.04
+Beta
+51.475
+Lowest Energy
+-8.4073
+Iterations
+5000
+Accepted
+1729
+Acceptance rate
+0.3458
+Deviation
+0.0392156862745098
+Beta
+53.125
+Lowest Energy
+-8.398
+Iterations
+5100
+Accepted
+1754
+Acceptance rate
+0.343921568627451
+Deviation
+0.038461538461538464
+Beta
+60.53750000000001
+Lowest Energy
+-8.4667
+Iterations
+5200
+Accepted
+1781
+Acceptance rate
+0.3425
+Deviation
+0.03773584905660377
+Beta
+59.10000000000001
+Lowest Energy
+-8.3667
+Iterations
+5300
+Accepted
+1810
+Acceptance rate
+0.34150943396226413
+Deviation
+0.037037037037037035
+Beta
+58.88750000000001
+Lowest Energy
+-8.484
+Iterations
+5400
+Accepted
+1837
+Acceptance rate
+0.3401851851851852
+Deviation
+0.03636363636363636
+Beta
+67.4
+Lowest Energy
+-8.5243
+Iterations
+5500
+Accepted
+1863
+Acceptance rate
+0.3387272727272727
+Deviation
+0.03571428571428571
+Beta
+57.625
+Lowest Energy
+-8.575
+Iterations
+5600
+Accepted
+1878
+Acceptance rate
+0.33535714285714285
+Deviation
+0.03508771929824561
+Beta
+64.95000000000002
+Lowest Energy
+-8.6319
+Iterations
+5700
+Accepted
+1901
+Acceptance rate
+0.3335087719298246
+Deviation
+0.034482758620689655
+Beta
+60.3875
+Lowest Energy
+-8.5039
+Iterations
+5800
+Accepted
+1927
+Acceptance rate
+0.3322413793103448
+Deviation
+0.03389830508474576
+Beta
+60.7
+Lowest Energy
+-8.4726
+Iterations
+5900
+Accepted
+1936
+Acceptance rate
+0.328135593220339
+Deviation
+0.03333333333333333
+Beta
+64.67500000000001
+Lowest Energy
+-8.5424
+Iterations
+6000
+Accepted
+1951
+Acceptance rate
+0.32516666666666666
+Deviation
+0.03278688524590164
+Beta
+68.75000000000001
+Lowest Energy
+-8.5137
+Iterations
+6100
+Accepted
+1965
+Acceptance rate
+0.3221311475409836
+Deviation
+0.03225806451612903
+Beta
+67.5875
+Lowest Energy
+-8.6451
+Iterations
+6200
+Accepted
+1990
+Acceptance rate
+0.3209677419354839
+Deviation
+0.031746031746031744
+Beta
+67.125
+Lowest Energy
+-8.593499999999999
+Iterations
+6300
+Accepted
+2009
+Acceptance rate
+0.3188888888888889
+Deviation
+0.03125
+Beta
+72.12500000000001
+Lowest Energy
+-8.5545
+Iterations
+6400
+Accepted
+2017
+Acceptance rate
+0.31515625
+Deviation
+0.03076923076923077
+Beta
+69.25
+Lowest Energy
+-8.6086
+Iterations
+6500
+Accepted
+2020
+Acceptance rate
+0.31076923076923074
+Deviation
+0.030303030303030304
+Beta
+78.43750000000001
+Lowest Energy
+-8.6449
+Iterations
+6600
+Accepted
+2023
+Acceptance rate
+0.3065151515151515
+Deviation
+0.029850746268656716
+Beta
+77.97500000000001
+Lowest Energy
+-8.6147
+Iterations
+6700
+Accepted
+2034
+Acceptance rate
+0.3035820895522388
+Deviation
+0.029411764705882353
+Beta
+69.92500000000001
+Lowest Energy
+-8.6289
+Iterations
+6800
+Accepted
+2061
+Acceptance rate
+0.30308823529411766
+Deviation
+0.028985507246376812
+Beta
+70.10000000000001
+Lowest Energy
+-8.6299
+Iterations
+6900
+Accepted
+2064
+Acceptance rate
+0.2991304347826087
+Deviation
+0.02857142857142857
+Beta
+75.42500000000001
+Lowest Energy
+-8.652000000000001
+Iterations
+7000
+Accepted
+2085
+Acceptance rate
+0.2978571428571429
+Deviation
+0.028169014084507043
+Beta
+86.12500000000003
+Lowest Energy
+-8.5956
+Iterations
+7100
+Accepted
+2099
+Acceptance rate
+0.2956338028169014
+Deviation
+0.027777777777777776
+Beta
+79.35000000000001
+Lowest Energy
+-8.6197
+Iterations
+7200
+Accepted
+2101
+Acceptance rate
+0.29180555555555554
+Deviation
+0.0273972602739726
+Beta
+75.95
+Lowest Energy
+-8.6646
+Iterations
+7300
+Accepted
+2101
+Acceptance rate
+0.2878082191780822
+Deviation
+0.02702702702702703
+Beta
+83.375
+Lowest Energy
+-8.6646
+Iterations
+7400
+Accepted
+2101
+Acceptance rate
+0.2839189189189189
+Deviation
+0.02666666666666667
+Beta
+89.12500000000001
+Lowest Energy
+-8.6646
+Iterations
+7500
+Accepted
+2101
+Acceptance rate
+0.28013333333333335
+Deviation
+0.02631578947368421
+Beta
+92.18750000000001
+Lowest Energy
+-8.6646
+Iterations
+7600
+Accepted
+2101
+Acceptance rate
+0.2764473684210526
+Deviation
+0.025974025974025976
+Beta
+80.10000000000002
+Lowest Energy
+-8.6646
+Iterations
+7700
+Accepted
+2101
+Acceptance rate
+0.27285714285714285
+Deviation
+0.02564102564102564
+Beta
+84.98750000000001
+Lowest Energy
+-8.6646
+Iterations
+7800
+Accepted
+2112
+Acceptance rate
+0.27076923076923076
+Deviation
+0.02531645569620253
+Beta
+88.02500000000002
+Lowest Energy
+-8.6571
+Iterations
+7900
+Accepted
+2127
+Acceptance rate
+0.26924050632911395
+Deviation
+0.025
+Beta
+83.2125
+Lowest Energy
+-8.6251
+Iterations
+8000
+Accepted
+2154
+Acceptance rate
+0.26925
+Deviation
+0.024691358024691357
+Beta
+83.25000000000001
+Lowest Energy
+-8.6007
+Iterations
+8100
+Accepted
+2154
+Acceptance rate
+0.2659259259259259
+Deviation
+0.024390243902439025
+Beta
+91.36250000000001
+Lowest Energy
+-8.6007
+Iterations
+8200
+Accepted
+2154
+Acceptance rate
+0.2626829268292683
+Deviation
+0.024096385542168676
+Beta
+96.57500000000002
+Lowest Energy
+-8.6007
+Iterations
+8300
+Accepted
+2154
+Acceptance rate
+0.25951807228915663
+Deviation
+0.023809523809523808
+Beta
+87.3625
+Lowest Energy
+-8.6007
+Iterations
+8400
+Accepted
+2154
+Acceptance rate
+0.25642857142857145
+Deviation
+0.023529411764705882
+Beta
+104.15000000000003
+Lowest Energy
+-8.6007
+Iterations
+8500
+Accepted
+2154
+Acceptance rate
+0.25341176470588234
+Deviation
+0.023255813953488372
+Beta
+88.375
+Lowest Energy
+-8.6007
+Iterations
+8600
+Accepted
+2154
+Acceptance rate
+0.25046511627906975
+Deviation
+0.022988505747126436
+Beta
+102.30000000000003
+Lowest Energy
+-8.6007
+Iterations
+8700
+Accepted
+2154
+Acceptance rate
+0.24758620689655172
+Deviation
+0.022727272727272728
+Beta
+104.56250000000003
+Lowest Energy
+-8.6007
+Iterations
+8800
+Accepted
+2154
+Acceptance rate
+0.24477272727272728
+Deviation
+0.02247191011235955
+Beta
+98.05000000000001
+Lowest Energy
+-8.6007
+Iterations
+8900
+Accepted
+2154
+Acceptance rate
+0.24202247191011236
+Deviation
+0.022222222222222223
+Beta
+109.16250000000002
+Lowest Energy
+-8.6007
+Iterations
+9000
+Accepted
+2154
+Acceptance rate
+0.23933333333333334
+Deviation
+0.02197802197802198
+Beta
+105.87500000000003
+Lowest Energy
+-8.6007
+Iterations
+9100
+Accepted
+2154
+Acceptance rate
+0.2367032967032967
+Deviation
+0.021739130434782608
+Beta
+100.21250000000002
+Lowest Energy
+-8.6007
+Iterations
+9200
+Accepted
+2154
+Acceptance rate
+0.2341304347826087
+Deviation
+0.021505376344086023
+Beta
+95.55000000000001
+Lowest Energy
+-8.6007
+Iterations
+9300
+Accepted
+2154
+Acceptance rate
+0.23161290322580644
+Deviation
+0.02127659574468085
+Beta
+102.38750000000002
+Lowest Energy
+-8.6007
+Iterations
+9400
+Accepted
+2154
+Acceptance rate
+0.22914893617021276
+Deviation
+0.021052631578947368
+Beta
+99.95000000000002
+Lowest Energy
+-8.6007
+Iterations
+9500
+Accepted
+2155
+Acceptance rate
+0.2268421052631579
+Deviation
+0.020833333333333332
+Beta
+99.81250000000001
+Lowest Energy
+-8.5868
+Iterations
+9600
+Accepted
+2157
+Acceptance rate
+0.2246875
+Deviation
+0.020618556701030927
+Beta
+98.45
+Lowest Energy
+-8.5785
+Iterations
+9700
+Accepted
+2168
+Acceptance rate
+0.22350515463917525
+Deviation
+0.02040816326530612
+Beta
+112.80000000000001
+Lowest Energy
+-8.587
+Iterations
+9800
+Accepted
+2183
+Acceptance rate
+0.22275510204081633
+Deviation
+0.020202020202020204
+Beta
+121.30000000000003
+Lowest Energy
+-8.6616
+Iterations
+9900
+Accepted
+2197
+Acceptance rate
+0.22191919191919193
+Deviation
+0.02
+Beta
+105.20000000000002
+Lowest Energy
+-8.6387
+Iterations
+10000
+Accepted
+2200
+Acceptance rate
+0.22
+Deviation
+0.019801980198019802
+Beta
+110.00000000000001
+Lowest Energy
+-8.6514
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.7602
+Iterations
+100
+Accepted
+77
+Acceptance rate
+0.77
+Deviation
+1.0
+Beta
+2.325
+Lowest Energy
+-1.4354
+Iterations
+200
+Accepted
+141
+Acceptance rate
+0.705
+Deviation
+0.6666666666666666
+Beta
+3.375
+Lowest Energy
+-1.5837999999999999
+Iterations
+300
+Accepted
+193
+Acceptance rate
+0.6433333333333333
+Deviation
+0.5
+Beta
+4.362500000000001
+Lowest Energy
+-2.2369
+Iterations
+400
+Accepted
+230
+Acceptance rate
+0.575
+Deviation
+0.4
+Beta
+5.3500000000000005
+Lowest Energy
+-2.605
+Iterations
+500
+Accepted
+264
+Acceptance rate
+0.528
+Deviation
+0.3333333333333333
+Beta
+6.937500000000001
+Lowest Energy
+-3.9586
+Iterations
+600
+Accepted
+297
+Acceptance rate
+0.495
+Deviation
+0.2857142857142857
+Beta
+7.625000000000001
+Lowest Energy
+-5.1549
+Iterations
+700
+Accepted
+324
+Acceptance rate
+0.46285714285714286
+Deviation
+0.25
+Beta
+9.387500000000003
+Lowest Energy
+-4.788600000000001
+Iterations
+800
+Accepted
+362
+Acceptance rate
+0.4525
+Deviation
+0.2222222222222222
+Beta
+10.750000000000002
+Lowest Energy
+-5.3255
+Iterations
+900
+Accepted
+401
+Acceptance rate
+0.44555555555555554
+Deviation
+0.2
+Beta
+10.700000000000001
+Lowest Energy
+-6.763299999999999
+Iterations
+1000
+Accepted
+436
+Acceptance rate
+0.436
+Deviation
+0.18181818181818182
+Beta
+13.250000000000002
+Lowest Energy
+-5.9548
+Iterations
+1100
+Accepted
+467
+Acceptance rate
+0.42454545454545456
+Deviation
+0.16666666666666666
+Beta
+13.625000000000004
+Lowest Energy
+-6.4449000000000005
+Iterations
+1200
+Accepted
+500
+Acceptance rate
+0.4166666666666667
+Deviation
+0.15384615384615385
+Beta
+15.500000000000004
+Lowest Energy
+-6.7363
+Iterations
+1300
+Accepted
+528
+Acceptance rate
+0.40615384615384614
+Deviation
+0.14285714285714285
+Beta
+16.0375
+Lowest Energy
+-7.1693
+Iterations
+1400
+Accepted
+568
+Acceptance rate
+0.4057142857142857
+Deviation
+0.13333333333333333
+Beta
+17.875000000000004
+Lowest Energy
+-6.785500000000001
+Iterations
+1500
+Accepted
+598
+Acceptance rate
+0.39866666666666667
+Deviation
+0.125
+Beta
+16.25
+Lowest Energy
+-7.3452
+Iterations
+1600
+Accepted
+635
+Acceptance rate
+0.396875
+Deviation
+0.11764705882352941
+Beta
+20.450000000000003
+Lowest Energy
+-7.1156
+Iterations
+1700
+Accepted
+662
+Acceptance rate
+0.38941176470588235
+Deviation
+0.1111111111111111
+Beta
+20.1625
+Lowest Energy
+-7.5344999999999995
+Iterations
+1800
+Accepted
+699
+Acceptance rate
+0.3883333333333333
+Deviation
+0.10526315789473684
+Beta
+21.950000000000003
+Lowest Energy
+-7.2842
+Iterations
+1900
+Accepted
+736
+Acceptance rate
+0.3873684210526316
+Deviation
+0.1
+Beta
+21.675000000000004
+Lowest Energy
+-7.109500000000001
+Iterations
+2000
+Accepted
+783
+Acceptance rate
+0.3915
+Deviation
+0.09523809523809523
+Beta
+25.250000000000004
+Lowest Energy
+-7.177099999999999
+Iterations
+2100
+Accepted
+818
+Acceptance rate
+0.38952380952380955
+Deviation
+0.09090909090909091
+Beta
+25.662500000000005
+Lowest Energy
+-7.5557
+Iterations
+2200
+Accepted
+855
+Acceptance rate
+0.3886363636363636
+Deviation
+0.08695652173913043
+Beta
+26.550000000000004
+Lowest Energy
+-7.7387999999999995
+Iterations
+2300
+Accepted
+887
+Acceptance rate
+0.38565217391304346
+Deviation
+0.08333333333333333
+Beta
+28.275000000000006
+Lowest Energy
+-8.0343
+Iterations
+2400
+Accepted
+919
+Acceptance rate
+0.3829166666666667
+Deviation
+0.08
+Beta
+30.650000000000006
+Lowest Energy
+-8.2037
+Iterations
+2500
+Accepted
+947
+Acceptance rate
+0.3788
+Deviation
+0.07692307692307693
+Beta
+29.062500000000004
+Lowest Energy
+-8.1936
+Iterations
+2600
+Accepted
+973
+Acceptance rate
+0.37423076923076926
+Deviation
+0.07407407407407407
+Beta
+28.875
+Lowest Energy
+-7.9548000000000005
+Iterations
+2700
+Accepted
+1016
+Acceptance rate
+0.3762962962962963
+Deviation
+0.07142857142857142
+Beta
+30.612500000000004
+Lowest Energy
+-8.113299999999999
+Iterations
+2800
+Accepted
+1061
+Acceptance rate
+0.37892857142857145
+Deviation
+0.06896551724137931
+Beta
+34.150000000000006
+Lowest Energy
+-8.1094
+Iterations
+2900
+Accepted
+1092
+Acceptance rate
+0.37655172413793103
+Deviation
+0.06666666666666667
+Beta
+36.41250000000001
+Lowest Energy
+-7.9559
+Iterations
+3000
+Accepted
+1127
+Acceptance rate
+0.37566666666666665
+Deviation
+0.06451612903225806
+Beta
+32.375
+Lowest Energy
+-7.8558
+Iterations
+3100
+Accepted
+1170
+Acceptance rate
+0.3774193548387097
+Deviation
+0.0625
+Beta
+38.06250000000001
+Lowest Energy
+-7.997400000000001
+Iterations
+3200
+Accepted
+1197
+Acceptance rate
+0.3740625
+Deviation
+0.06060606060606061
+Beta
+35.25
+Lowest Energy
+-8.0774
+Iterations
+3300
+Accepted
+1231
+Acceptance rate
+0.37303030303030305
+Deviation
+0.058823529411764705
+Beta
+41.675000000000004
+Lowest Energy
+-8.1076
+Iterations
+3400
+Accepted
+1262
+Acceptance rate
+0.3711764705882353
+Deviation
+0.05714285714285714
+Beta
+42.900000000000006
+Lowest Energy
+-8.210799999999999
+Iterations
+3500
+Accepted
+1294
+Acceptance rate
+0.3697142857142857
+Deviation
+0.05555555555555555
+Beta
+36.25
+Lowest Energy
+-8.203199999999999
+Iterations
+3600
+Accepted
+1329
+Acceptance rate
+0.36916666666666664
+Deviation
+0.05405405405405406
+Beta
+37.7
+Lowest Energy
+-7.9849
+Iterations
+3700
+Accepted
+1366
+Acceptance rate
+0.3691891891891892
+Deviation
+0.05263157894736842
+Beta
+45.18750000000001
+Lowest Energy
+-8.1005
+Iterations
+3800
+Accepted
+1392
+Acceptance rate
+0.3663157894736842
+Deviation
+0.05128205128205128
+Beta
+45.425000000000004
+Lowest Energy
+-8.0256
+Iterations
+3900
+Accepted
+1430
+Acceptance rate
+0.36666666666666664
+Deviation
+0.05
+Beta
+41.712500000000006
+Lowest Energy
+-8.3097
+Iterations
+4000
+Accepted
+1464
+Acceptance rate
+0.366
+Deviation
+0.04878048780487805
+Beta
+41.25
+Lowest Energy
+-8.1204
+Iterations
+4100
+Accepted
+1512
+Acceptance rate
+0.36878048780487804
+Deviation
+0.047619047619047616
+Beta
+50.96250000000001
+Lowest Energy
+-8.1602
+Iterations
+4200
+Accepted
+1536
+Acceptance rate
+0.3657142857142857
+Deviation
+0.046511627906976744
+Beta
+49.025000000000006
+Lowest Energy
+-8.2186
+Iterations
+4300
+Accepted
+1571
+Acceptance rate
+0.36534883720930234
+Deviation
+0.045454545454545456
+Beta
+52.85000000000001
+Lowest Energy
+-8.4049
+Iterations
+4400
+Accepted
+1605
+Acceptance rate
+0.36477272727272725
+Deviation
+0.044444444444444446
+Beta
+54.05000000000001
+Lowest Energy
+-8.302399999999999
+Iterations
+4500
+Accepted
+1620
+Acceptance rate
+0.36
+Deviation
+0.043478260869565216
+Beta
+56.375000000000014
+Lowest Energy
+-8.3374
+Iterations
+4600
+Accepted
+1650
+Acceptance rate
+0.358695652173913
+Deviation
+0.0425531914893617
+Beta
+50.7
+Lowest Energy
+-8.3892
+Iterations
+4700
+Accepted
+1683
+Acceptance rate
+0.35808510638297875
+Deviation
+0.041666666666666664
+Beta
+49.42500000000001
+Lowest Energy
+-8.3738
+Iterations
+4800
+Accepted
+1718
+Acceptance rate
+0.35791666666666666
+Deviation
+0.04081632653061224
+Beta
+52.85
+Lowest Energy
+-8.4366
+Iterations
+4900
+Accepted
+1747
+Acceptance rate
+0.35653061224489796
+Deviation
+0.04
+Beta
+55.76250000000001
+Lowest Energy
+-8.5642
+Iterations
+5000
+Accepted
+1770
+Acceptance rate
+0.354
+Deviation
+0.0392156862745098
+Beta
+58.12500000000001
+Lowest Energy
+-8.5177
+Iterations
+5100
+Accepted
+1801
+Acceptance rate
+0.3531372549019608
+Deviation
+0.038461538461538464
+Beta
+52.8875
+Lowest Energy
+-8.4174
+Iterations
+5200
+Accepted
+1847
+Acceptance rate
+0.3551923076923077
+Deviation
+0.03773584905660377
+Beta
+61.05000000000001
+Lowest Energy
+-8.3736
+Iterations
+5300
+Accepted
+1868
+Acceptance rate
+0.35245283018867923
+Deviation
+0.037037037037037035
+Beta
+54.9125
+Lowest Energy
+-8.424199999999999
+Iterations
+5400
+Accepted
+1899
+Acceptance rate
+0.3516666666666667
+Deviation
+0.03636363636363636
+Beta
+59.300000000000004
+Lowest Energy
+-8.4995
+Iterations
+5500
+Accepted
+1934
+Acceptance rate
+0.35163636363636364
+Deviation
+0.03571428571428571
+Beta
+64.50000000000001
+Lowest Energy
+-8.4725
+Iterations
+5600
+Accepted
+1962
+Acceptance rate
+0.35035714285714287
+Deviation
+0.03508771929824561
+Beta
+58.650000000000006
+Lowest Energy
+-8.3275
+Iterations
+5700
+Accepted
+1980
+Acceptance rate
+0.3473684210526316
+Deviation
+0.034482758620689655
+Beta
+65.375
+Lowest Energy
+-8.471
+Iterations
+5800
+Accepted
+2007
+Acceptance rate
+0.3460344827586207
+Deviation
+0.03389830508474576
+Beta
+69.4
+Lowest Energy
+-8.4717
+Iterations
+5900
+Accepted
+2029
+Acceptance rate
+0.3438983050847458
+Deviation
+0.03333333333333333
+Beta
+65.41250000000001
+Lowest Energy
+-8.4161
+Iterations
+6000
+Accepted
+2045
+Acceptance rate
+0.3408333333333333
+Deviation
+0.03278688524590164
+Beta
+68.0
+Lowest Energy
+-8.5138
+Iterations
+6100
+Accepted
+2056
+Acceptance rate
+0.33704918032786885
+Deviation
+0.03225806451612903
+Beta
+72.92500000000001
+Lowest Energy
+-8.6034
+Iterations
+6200
+Accepted
+2063
+Acceptance rate
+0.332741935483871
+Deviation
+0.031746031746031744
+Beta
+67.125
+Lowest Energy
+-8.6055
+Iterations
+6300
+Accepted
+2072
+Acceptance rate
+0.3288888888888889
+Deviation
+0.03125
+Beta
+69.76250000000002
+Lowest Energy
+-8.5446
+Iterations
+6400
+Accepted
+2092
+Acceptance rate
+0.326875
+Deviation
+0.03076923076923077
+Beta
+70.05000000000001
+Lowest Energy
+-8.5474
+Iterations
+6500
+Accepted
+2108
+Acceptance rate
+0.3243076923076923
+Deviation
+0.030303030303030304
+Beta
+78.43750000000001
+Lowest Energy
+-8.5393
+Iterations
+6600
+Accepted
+2118
+Acceptance rate
+0.3209090909090909
+Deviation
+0.029850746268656716
+Beta
+72.2
+Lowest Energy
+-8.5601
+Iterations
+6700
+Accepted
+2118
+Acceptance rate
+0.3161194029850746
+Deviation
+0.029411764705882353
+Beta
+78.30000000000001
+Lowest Energy
+-8.5601
+Iterations
+6800
+Accepted
+2118
+Acceptance rate
+0.3114705882352941
+Deviation
+0.028985507246376812
+Beta
+76.05000000000001
+Lowest Energy
+-8.5601
+Iterations
+6900
+Accepted
+2120
+Acceptance rate
+0.3072463768115942
+Deviation
+0.02857142857142857
+Beta
+78.01250000000002
+Lowest Energy
+-8.5372
+Iterations
+7000
+Accepted
+2125
+Acceptance rate
+0.30357142857142855
+Deviation
+0.028169014084507043
+Beta
+80.87500000000003
+Lowest Energy
+-8.5674
+Iterations
+7100
+Accepted
+2137
+Acceptance rate
+0.3009859154929577
+Deviation
+0.027777777777777776
+Beta
+83.78750000000002
+Lowest Energy
+-8.6208
+Iterations
+7200
+Accepted
+2151
+Acceptance rate
+0.29875
+Deviation
+0.0273972602739726
+Beta
+81.35000000000002
+Lowest Energy
+-8.5397
+Iterations
+7300
+Accepted
+2177
+Acceptance rate
+0.2982191780821918
+Deviation
+0.02702702702702703
+Beta
+82.46250000000002
+Lowest Energy
+-8.5342
+Iterations
+7400
+Accepted
+2204
+Acceptance rate
+0.29783783783783785
+Deviation
+0.02666666666666667
+Beta
+90.97500000000002
+Lowest Energy
+-8.6062
+Iterations
+7500
+Accepted
+2226
+Acceptance rate
+0.2968
+Deviation
+0.02631578947368421
+Beta
+77.18750000000001
+Lowest Energy
+-8.6333
+Iterations
+7600
+Accepted
+2236
+Acceptance rate
+0.2942105263157895
+Deviation
+0.025974025974025976
+Beta
+88.65000000000002
+Lowest Energy
+-8.6453
+Iterations
+7700
+Accepted
+2251
+Acceptance rate
+0.29233766233766234
+Deviation
+0.02564102564102564
+Beta
+81.13749999999999
+Lowest Energy
+-8.7151
+Iterations
+7800
+Accepted
+2262
+Acceptance rate
+0.29
+Deviation
+0.02531645569620253
+Beta
+96.80000000000001
+Lowest Energy
+-8.6502
+Iterations
+7900
+Accepted
+2276
+Acceptance rate
+0.28810126582278484
+Deviation
+0.025
+Beta
+96.05000000000003
+Lowest Energy
+-8.687899999999999
+Iterations
+8000
+Accepted
+2277
+Acceptance rate
+0.284625
+Deviation
+0.024691358024691357
+Beta
+92.25000000000001
+Lowest Energy
+-8.6955
+Iterations
+8100
+Accepted
+2280
+Acceptance rate
+0.2814814814814815
+Deviation
+0.024390243902439025
+Beta
+90.35000000000002
+Lowest Energy
+-8.701
+Iterations
+8200
+Accepted
+2281
+Acceptance rate
+0.2781707317073171
+Deviation
+0.024096385542168676
+Beta
+88.375
+Lowest Energy
+-8.7107
+Iterations
+8300
+Accepted
+2286
+Acceptance rate
+0.27542168674698797
+Deviation
+0.023809523809523808
+Beta
+91.51250000000002
+Lowest Energy
+-8.6735
+Iterations
+8400
+Accepted
+2288
+Acceptance rate
+0.2723809523809524
+Deviation
+0.023529411764705882
+Beta
+93.65000000000002
+Lowest Energy
+-8.6889
+Iterations
+8500
+Accepted
+2288
+Acceptance rate
+0.2691764705882353
+Deviation
+0.023255813953488372
+Beta
+96.87500000000001
+Lowest Energy
+-8.6889
+Iterations
+8600
+Accepted
+2291
+Acceptance rate
+0.2663953488372093
+Deviation
+0.022988505747126436
+Beta
+89.4
+Lowest Energy
+-8.6432
+Iterations
+8700
+Accepted
+2312
+Acceptance rate
+0.2657471264367816
+Deviation
+0.022727272727272728
+Beta
+91.51250000000002
+Lowest Energy
+-8.6558
+Iterations
+8800
+Accepted
+2316
+Acceptance rate
+0.2631818181818182
+Deviation
+0.02247191011235955
+Beta
+101.35000000000002
+Lowest Energy
+-8.6841
+Iterations
+8900
+Accepted
+2330
+Acceptance rate
+0.26179775280898876
+Deviation
+0.022222222222222223
+Beta
+95.8125
+Lowest Energy
+-8.6466
+Iterations
+9000
+Accepted
+2333
+Acceptance rate
+0.25922222222222224
+Deviation
+0.02197802197802198
+Beta
+92.375
+Lowest Energy
+-8.6842
+Iterations
+9100
+Accepted
+2336
+Acceptance rate
+0.2567032967032967
+Deviation
+0.021739130434782608
+Beta
+111.58750000000003
+Lowest Energy
+-8.649899999999999
+Iterations
+9200
+Accepted
+2348
+Acceptance rate
+0.25521739130434784
+Deviation
+0.021505376344086023
+Beta
+95.55000000000001
+Lowest Energy
+-8.6971
+Iterations
+9300
+Accepted
+2355
+Acceptance rate
+0.2532258064516129
+Deviation
+0.02127659574468085
+Beta
+111.68750000000003
+Lowest Energy
+-8.677900000000001
+Iterations
+9400
+Accepted
+2369
+Acceptance rate
+0.2520212765957447
+Deviation
+0.021052631578947368
+Beta
+97.60000000000002
+Lowest Energy
+-8.7553
+Iterations
+9500
+Accepted
+2373
+Acceptance rate
+0.24978947368421053
+Deviation
+0.020833333333333332
+Beta
+115.25000000000003
+Lowest Energy
+-8.7147
+Iterations
+9600
+Accepted
+2397
+Acceptance rate
+0.2496875
+Deviation
+0.020618556701030927
+Beta
+99.65
+Lowest Energy
+-8.6987
+Iterations
+9700
+Accepted
+2422
+Acceptance rate
+0.24969072164948453
+Deviation
+0.02040816326530612
+Beta
+100.67500000000001
+Lowest Energy
+-8.673300000000001
+Iterations
+9800
+Accepted
+2431
+Acceptance rate
+0.24806122448979592
+Deviation
+0.020202020202020204
+Beta
+99.25
+Lowest Energy
+-8.5965
+Iterations
+9900
+Accepted
+2448
+Acceptance rate
+0.24727272727272728
+Deviation
+0.02
+Beta
+102.72500000000001
+Lowest Energy
+-8.5799
+Iterations
+10000
+Accepted
+2464
+Acceptance rate
+0.2464
+Deviation
+0.019801980198019802
+Beta
+123.75000000000001
+Lowest Energy
+-8.5924
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.7618
+Iterations
+100
+Accepted
+73
+Acceptance rate
+0.73
+Deviation
+1.0
+Beta
+2.475
+Lowest Energy
+-0.5447
+Iterations
+200
+Accepted
+131
+Acceptance rate
+0.655
+Deviation
+0.6666666666666666
+Beta
+3.7000000000000006
+Lowest Energy
+-0.7728000000000002
+Iterations
+300
+Accepted
+177
+Acceptance rate
+0.59
+Deviation
+0.5
+Beta
+4.6625000000000005
+Lowest Energy
+-1.6075
+Iterations
+400
+Accepted
+220
+Acceptance rate
+0.55
+Deviation
+0.4
+Beta
+5.25
+Lowest Energy
+-1.8700999999999999
+Iterations
+500
+Accepted
+264
+Acceptance rate
+0.528
+Deviation
+0.3333333333333333
+Beta
+6.937500000000001
+Lowest Energy
+-3.6661
+Iterations
+600
+Accepted
+311
+Acceptance rate
+0.5183333333333333
+Deviation
+0.2857142857142857
+Beta
+8.0
+Lowest Energy
+-4.011
+Iterations
+700
+Accepted
+338
+Acceptance rate
+0.4828571428571429
+Deviation
+0.25
+Beta
+8.512500000000001
+Lowest Energy
+-5.8154
+Iterations
+800
+Accepted
+366
+Acceptance rate
+0.4575
+Deviation
+0.2222222222222222
+Beta
+9.350000000000001
+Lowest Energy
+-5.7871
+Iterations
+900
+Accepted
+395
+Acceptance rate
+0.4388888888888889
+Deviation
+0.2
+Beta
+12.275000000000002
+Lowest Energy
+-6.131500000000001
+Iterations
+1000
+Accepted
+421
+Acceptance rate
+0.421
+Deviation
+0.18181818181818182
+Beta
+11.500000000000002
+Lowest Energy
+-6.1441
+Iterations
+1100
+Accepted
+449
+Acceptance rate
+0.4081818181818182
+Deviation
+0.16666666666666666
+Beta
+14.587500000000002
+Lowest Energy
+-7.0273
+Iterations
+1200
+Accepted
+482
+Acceptance rate
+0.40166666666666667
+Deviation
+0.15384615384615385
+Beta
+13.700000000000001
+Lowest Energy
+-6.5394000000000005
+Iterations
+1300
+Accepted
+520
+Acceptance rate
+0.4
+Deviation
+0.14285714285714285
+Beta
+15.875000000000002
+Lowest Energy
+-6.6798
+Iterations
+1400
+Accepted
+553
+Acceptance rate
+0.395
+Deviation
+0.13333333333333333
+Beta
+16.475
+Lowest Energy
+-6.7101999999999995
+Iterations
+1500
+Accepted
+596
+Acceptance rate
+0.3973333333333333
+Deviation
+0.125
+Beta
+17.187500000000004
+Lowest Energy
+-6.5388
+Iterations
+1600
+Accepted
+634
+Acceptance rate
+0.39625
+Deviation
+0.11764705882352941
+Beta
+20.250000000000004
+Lowest Energy
+-7.3308
+Iterations
+1700
+Accepted
+667
+Acceptance rate
+0.39235294117647057
+Deviation
+0.1111111111111111
+Beta
+21.650000000000006
+Lowest Energy
+-7.114699999999999
+Iterations
+1800
+Accepted
+704
+Acceptance rate
+0.39111111111111113
+Deviation
+0.10526315789473684
+Beta
+21.500000000000004
+Lowest Energy
+-7.4127
+Iterations
+1900
+Accepted
+738
+Acceptance rate
+0.38842105263157894
+Deviation
+0.1
+Beta
+22.625
+Lowest Energy
+-8.0177
+Iterations
+2000
+Accepted
+772
+Acceptance rate
+0.386
+Deviation
+0.09523809523809523
+Beta
+25.000000000000004
+Lowest Energy
+-7.9748
+Iterations
+2100
+Accepted
+797
+Acceptance rate
+0.37952380952380954
+Deviation
+0.09090909090909091
+Beta
+22.775000000000002
+Lowest Energy
+-8.1775
+Iterations
+2200
+Accepted
+824
+Acceptance rate
+0.37454545454545457
+Deviation
+0.08695652173913043
+Beta
+23.525
+Lowest Energy
+-7.903500000000001
+Iterations
+2300
+Accepted
+861
+Acceptance rate
+0.37434782608695655
+Deviation
+0.08333333333333333
+Beta
+27.987500000000004
+Lowest Energy
+-8.2593
+Iterations
+2400
+Accepted
+896
+Acceptance rate
+0.37333333333333335
+Deviation
+0.08
+Beta
+28.25
+Lowest Energy
+-8.3353
+Iterations
+2500
+Accepted
+936
+Acceptance rate
+0.3744
+Deviation
+0.07692307692307693
+Beta
+31.250000000000004
+Lowest Energy
+-8.2165
+Iterations
+2600
+Accepted
+964
+Acceptance rate
+0.3707692307692308
+Deviation
+0.07407407407407407
+Beta
+27.575000000000003
+Lowest Energy
+-8.227500000000001
+Iterations
+2700
+Accepted
+991
+Acceptance rate
+0.36703703703703705
+Deviation
+0.07142857142857142
+Beta
+31.625000000000007
+Lowest Energy
+-8.1125
+Iterations
+2800
+Accepted
+1023
+Acceptance rate
+0.3653571428571429
+Deviation
+0.06896551724137931
+Beta
+31.000000000000007
+Lowest Energy
+-8.3865
+Iterations
+2900
+Accepted
+1074
+Acceptance rate
+0.3703448275862069
+Deviation
+0.06666666666666667
+Beta
+31.700000000000003
+Lowest Energy
+-8.0711
+Iterations
+3000
+Accepted
+1112
+Acceptance rate
+0.37066666666666664
+Deviation
+0.06451612903225806
+Beta
+32.0
+Lowest Energy
+-8.2001
+Iterations
+3100
+Accepted
+1148
+Acceptance rate
+0.37032258064516127
+Deviation
+0.0625
+Beta
+34.962500000000006
+Lowest Energy
+-8.1074
+Iterations
+3200
+Accepted
+1190
+Acceptance rate
+0.371875
+Deviation
+0.06060606060606061
+Beta
+34.050000000000004
+Lowest Energy
+-8.1629
+Iterations
+3300
+Accepted
+1227
+Acceptance rate
+0.3718181818181818
+Deviation
+0.058823529411764705
+Beta
+39.20000000000001
+Lowest Energy
+-8.0963
+Iterations
+3400
+Accepted
+1263
+Acceptance rate
+0.3714705882352941
+Deviation
+0.05714285714285714
+Beta
+36.95
+Lowest Energy
+-8.0274
+Iterations
+3500
+Accepted
+1308
+Acceptance rate
+0.3737142857142857
+Deviation
+0.05555555555555555
+Beta
+36.6875
+Lowest Energy
+-8.199
+Iterations
+3600
+Accepted
+1351
+Acceptance rate
+0.37527777777777777
+Deviation
+0.05405405405405406
+Beta
+42.650000000000006
+Lowest Energy
+-8.3152
+Iterations
+3700
+Accepted
+1383
+Acceptance rate
+0.3737837837837838
+Deviation
+0.05263157894736842
+Beta
+38.25
+Lowest Energy
+-8.4209
+Iterations
+3800
+Accepted
+1425
+Acceptance rate
+0.375
+Deviation
+0.05128205128205128
+Beta
+39.25
+Lowest Energy
+-8.1502
+Iterations
+3900
+Accepted
+1463
+Acceptance rate
+0.3751282051282051
+Deviation
+0.05
+Beta
+45.61250000000001
+Lowest Energy
+-8.0666
+Iterations
+4000
+Accepted
+1502
+Acceptance rate
+0.3755
+Deviation
+0.04878048780487805
+Beta
+45.750000000000014
+Lowest Energy
+-8.17
+Iterations
+4100
+Accepted
+1538
+Acceptance rate
+0.3751219512195122
+Deviation
+0.047619047619047616
+Beta
+45.837500000000006
+Lowest Energy
+-8.1432
+Iterations
+4200
+Accepted
+1579
+Acceptance rate
+0.3759523809523809
+Deviation
+0.046511627906976744
+Beta
+46.92500000000001
+Lowest Energy
+-8.1385
+Iterations
+4300
+Accepted
+1625
+Acceptance rate
+0.37790697674418605
+Deviation
+0.045454545454545456
+Beta
+49.087500000000006
+Lowest Energy
+-8.1506
+Iterations
+4400
+Accepted
+1654
+Acceptance rate
+0.3759090909090909
+Deviation
+0.044444444444444446
+Beta
+48.00000000000001
+Lowest Energy
+-8.3004
+Iterations
+4500
+Accepted
+1672
+Acceptance rate
+0.37155555555555553
+Deviation
+0.043478260869565216
+Beta
+46.8125
+Lowest Energy
+-8.2448
+Iterations
+4600
+Accepted
+1686
+Acceptance rate
+0.3665217391304348
+Deviation
+0.0425531914893617
+Beta
+48.97500000000001
+Lowest Energy
+-8.3143
+Iterations
+4700
+Accepted
+1698
+Acceptance rate
+0.36127659574468085
+Deviation
+0.041666666666666664
+Beta
+50.0125
+Lowest Energy
+-8.308
+Iterations
+4800
+Accepted
+1724
+Acceptance rate
+0.3591666666666667
+Deviation
+0.04081632653061224
+Beta
+56.45000000000002
+Lowest Energy
+-8.1707
+Iterations
+4900
+Accepted
+1749
+Acceptance rate
+0.3569387755102041
+Deviation
+0.04
+Beta
+55.76250000000001
+Lowest Energy
+-8.1684
+Iterations
+5000
+Accepted
+1775
+Acceptance rate
+0.355
+Deviation
+0.0392156862745098
+Beta
+51.875
+Lowest Energy
+-8.1522
+Iterations
+5100
+Accepted
+1798
+Acceptance rate
+0.35254901960784313
+Deviation
+0.038461538461538464
+Beta
+54.16250000000001
+Lowest Energy
+-8.386199999999999
+Iterations
+5200
+Accepted
+1820
+Acceptance rate
+0.35
+Deviation
+0.03773584905660377
+Beta
+63.00000000000001
+Lowest Energy
+-8.2635
+Iterations
+5300
+Accepted
+1848
+Acceptance rate
+0.34867924528301886
+Deviation
+0.037037037037037035
+Beta
+59.55000000000001
+Lowest Energy
+-8.4474
+Iterations
+5400
+Accepted
+1874
+Acceptance rate
+0.34703703703703703
+Deviation
+0.03636363636363636
+Beta
+66.72500000000001
+Lowest Energy
+-8.4396
+Iterations
+5500
+Accepted
+1901
+Acceptance rate
+0.34563636363636363
+Deviation
+0.03571428571428571
+Beta
+63.812500000000014
+Lowest Energy
+-8.4124
+Iterations
+5600
+Accepted
+1901
+Acceptance rate
+0.3394642857142857
+Deviation
+0.03508771929824561
+Beta
+60.05000000000001
+Lowest Energy
+-8.4124
+Iterations
+5700
+Accepted
+1918
+Acceptance rate
+0.33649122807017545
+Deviation
+0.034482758620689655
+Beta
+61.8125
+Lowest Energy
+-8.4101
+Iterations
+5800
+Accepted
+1924
+Acceptance rate
+0.3317241379310345
+Deviation
+0.03389830508474576
+Beta
+65.05000000000001
+Lowest Energy
+-8.4553
+Iterations
+5900
+Accepted
+1936
+Acceptance rate
+0.328135593220339
+Deviation
+0.03333333333333333
+Beta
+64.67500000000001
+Lowest Energy
+-8.4192
+Iterations
+6000
+Accepted
+1961
+Acceptance rate
+0.3268333333333333
+Deviation
+0.03278688524590164
+Beta
+62.75
+Lowest Energy
+-8.5159
+Iterations
+6100
+Accepted
+1979
+Acceptance rate
+0.3244262295081967
+Deviation
+0.03225806451612903
+Beta
+62.25000000000001
+Lowest Energy
+-8.523299999999999
+Iterations
+6200
+Accepted
+1989
+Acceptance rate
+0.3208064516129032
+Deviation
+0.031746031746031744
+Beta
+72.55000000000001
+Lowest Energy
+-8.5518
+Iterations
+6300
+Accepted
+2012
+Acceptance rate
+0.31936507936507935
+Deviation
+0.03125
+Beta
+76.06250000000001
+Lowest Energy
+-8.347100000000001
+Iterations
+6400
+Accepted
+2023
+Acceptance rate
+0.31609375
+Deviation
+0.03076923076923077
+Beta
+74.85000000000001
+Lowest Energy
+-8.444700000000001
+Iterations
+6500
+Accepted
+2045
+Acceptance rate
+0.31461538461538463
+Deviation
+0.030303030303030304
+Beta
+79.25000000000001
+Lowest Energy
+-8.4326
+Iterations
+6600
+Accepted
+2048
+Acceptance rate
+0.3103030303030303
+Deviation
+0.029850746268656716
+Beta
+73.025
+Lowest Energy
+-8.5002
+Iterations
+6700
+Accepted
+2078
+Acceptance rate
+0.3101492537313433
+Deviation
+0.029411764705882353
+Beta
+69.0875
+Lowest Energy
+-8.4252
+Iterations
+6800
+Accepted
+2078
+Acceptance rate
+0.30558823529411766
+Deviation
+0.028985507246376812
+Beta
+78.60000000000001
+Lowest Energy
+-8.4252
+Iterations
+6900
+Accepted
+2079
+Acceptance rate
+0.30130434782608695
+Deviation
+0.02857142857142857
+Beta
+82.32500000000002
+Lowest Energy
+-8.3894
+Iterations
+7000
+Accepted
+2082
+Acceptance rate
+0.29742857142857143
+Deviation
+0.028169014084507043
+Beta
+76.50000000000001
+Lowest Energy
+-8.4402
+Iterations
+7100
+Accepted
+2099
+Acceptance rate
+0.2956338028169014
+Deviation
+0.027777777777777776
+Beta
+77.57500000000002
+Lowest Energy
+-8.4306
+Iterations
+7200
+Accepted
+2113
+Acceptance rate
+0.29347222222222225
+Deviation
+0.0273972602739726
+Beta
+83.15
+Lowest Energy
+-8.500399999999999
+Iterations
+7300
+Accepted
+2125
+Acceptance rate
+0.2910958904109589
+Deviation
+0.02702702702702703
+Beta
+78.8125
+Lowest Energy
+-8.4259
+Iterations
+7400
+Accepted
+2151
+Acceptance rate
+0.29067567567567565
+Deviation
+0.02666666666666667
+Beta
+86.35000000000002
+Lowest Energy
+-8.473700000000001
+Iterations
+7500
+Accepted
+2163
+Acceptance rate
+0.2884
+Deviation
+0.02631578947368421
+Beta
+89.37500000000001
+Lowest Energy
+-8.4278
+Iterations
+7600
+Accepted
+2186
+Acceptance rate
+0.2876315789473684
+Deviation
+0.025974025974025976
+Beta
+85.80000000000001
+Lowest Energy
+-8.486699999999999
+Iterations
+7700
+Accepted
+2205
+Acceptance rate
+0.2863636363636364
+Deviation
+0.02564102564102564
+Beta
+88.8375
+Lowest Energy
+-8.569
+Iterations
+7800
+Accepted
+2224
+Acceptance rate
+0.28512820512820514
+Deviation
+0.02531645569620253
+Beta
+89.00000000000003
+Lowest Energy
+-8.543199999999999
+Iterations
+7900
+Accepted
+2238
+Acceptance rate
+0.2832911392405063
+Deviation
+0.025
+Beta
+89.13750000000002
+Lowest Energy
+-8.5933
+Iterations
+8000
+Accepted
+2253
+Acceptance rate
+0.281625
+Deviation
+0.024691358024691357
+Beta
+84.25
+Lowest Energy
+-8.5641
+Iterations
+8100
+Accepted
+2267
+Acceptance rate
+0.27987654320987654
+Deviation
+0.024390243902439025
+Beta
+96.42500000000001
+Lowest Energy
+-8.5704
+Iterations
+8200
+Accepted
+2276
+Acceptance rate
+0.2775609756097561
+Deviation
+0.024096385542168676
+Beta
+83.25000000000001
+Lowest Energy
+-8.5913
+Iterations
+8300
+Accepted
+2288
+Acceptance rate
+0.27566265060240963
+Deviation
+0.023809523809523808
+Beta
+100.85000000000002
+Lowest Energy
+-8.596
+Iterations
+8400
+Accepted
+2298
+Acceptance rate
+0.2735714285714286
+Deviation
+0.023529411764705882
+Beta
+92.60000000000002
+Lowest Energy
+-8.6149
+Iterations
+8500
+Accepted
+2298
+Acceptance rate
+0.2703529411764706
+Deviation
+0.023255813953488372
+Beta
+86.25
+Lowest Energy
+-8.6149
+Iterations
+8600
+Accepted
+2298
+Acceptance rate
+0.2672093023255814
+Deviation
+0.022988505747126436
+Beta
+106.60000000000002
+Lowest Energy
+-8.6149
+Iterations
+8700
+Accepted
+2298
+Acceptance rate
+0.26413793103448274
+Deviation
+0.022727272727272728
+Beta
+99.12500000000001
+Lowest Energy
+-8.6149
+Iterations
+8800
+Accepted
+2298
+Acceptance rate
+0.2611363636363636
+Deviation
+0.02247191011235955
+Beta
+89.25
+Lowest Energy
+-8.6149
+Iterations
+8900
+Accepted
+2298
+Acceptance rate
+0.25820224719101126
+Deviation
+0.022222222222222223
+Beta
+98.03750000000001
+Lowest Energy
+-8.6149
+Iterations
+9000
+Accepted
+2298
+Acceptance rate
+0.25533333333333336
+Deviation
+0.02197802197802198
+Beta
+100.25000000000003
+Lowest Energy
+-8.6149
+Iterations
+9100
+Accepted
+2298
+Acceptance rate
+0.25252747252747254
+Deviation
+0.021739130434782608
+Beta
+99.075
+Lowest Energy
+-8.6149
+Iterations
+9200
+Accepted
+2298
+Acceptance rate
+0.24978260869565216
+Deviation
+0.021505376344086023
+Beta
+94.4
+Lowest Energy
+-8.6149
+Iterations
+9300
+Accepted
+2298
+Acceptance rate
+0.2470967741935484
+Deviation
+0.02127659574468085
+Beta
+115.17500000000001
+Lowest Energy
+-8.6149
+Iterations
+9400
+Accepted
+2298
+Acceptance rate
+0.244468085106383
+Deviation
+0.021052631578947368
+Beta
+108.17500000000003
+Lowest Energy
+-8.6149
+Iterations
+9500
+Accepted
+2298
+Acceptance rate
+0.24189473684210527
+Deviation
+0.020833333333333332
+Beta
+112.87500000000001
+Lowest Energy
+-8.6149
+Iterations
+9600
+Accepted
+2298
+Acceptance rate
+0.239375
+Deviation
+0.020618556701030927
+Beta
+108.05000000000001
+Lowest Energy
+-8.6149
+Iterations
+9700
+Accepted
+2298
+Acceptance rate
+0.23690721649484536
+Deviation
+0.02040816326530612
+Beta
+109.16250000000002
+Lowest Energy
+-8.6149
+Iterations
+9800
+Accepted
+2298
+Acceptance rate
+0.23448979591836736
+Deviation
+0.020202020202020204
+Beta
+117.62500000000003
+Lowest Energy
+-8.6149
+Iterations
+9900
+Accepted
+2298
+Acceptance rate
+0.23212121212121212
+Deviation
+0.02
+Beta
+100.25
+Lowest Energy
+-8.6149
+Iterations
+10000
+Accepted
+2298
+Acceptance rate
+0.2298
+Deviation
+0.019801980198019802
+Beta
+110.00000000000001
+Lowest Energy
+-8.6149
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.7218
+Iterations
+100
+Accepted
+72
+Acceptance rate
+0.72
+Deviation
+1.0
+Beta
+2.2625
+Lowest Energy
+-1.2106999999999999
+Iterations
+200
+Accepted
+131
+Acceptance rate
+0.655
+Deviation
+0.6666666666666666
+Beta
+3.5500000000000003
+Lowest Energy
+-0.21000000000000002
+Iterations
+300
+Accepted
+179
+Acceptance rate
+0.5966666666666667
+Deviation
+0.5
+Beta
+4.887500000000001
+Lowest Energy
+-3.4257
+Iterations
+400
+Accepted
+201
+Acceptance rate
+0.5025
+Deviation
+0.4
+Beta
+5.700000000000001
+Lowest Energy
+-5.498
+Iterations
+500
+Accepted
+222
+Acceptance rate
+0.444
+Deviation
+0.3333333333333333
+Beta
+7.250000000000001
+Lowest Energy
+-5.3944
+Iterations
+600
+Accepted
+251
+Acceptance rate
+0.41833333333333333
+Deviation
+0.2857142857142857
+Beta
+7.4
+Lowest Energy
+-6.146
+Iterations
+700
+Accepted
+285
+Acceptance rate
+0.40714285714285714
+Deviation
+0.25
+Beta
+9.3
+Lowest Energy
+-5.435700000000001
+Iterations
+800
+Accepted
+315
+Acceptance rate
+0.39375
+Deviation
+0.2222222222222222
+Beta
+10.650000000000002
+Lowest Energy
+-5.2893
+Iterations
+900
+Accepted
+350
+Acceptance rate
+0.3888888888888889
+Deviation
+0.2
+Beta
+10.475000000000001
+Lowest Energy
+-5.3477
+Iterations
+1000
+Accepted
+388
+Acceptance rate
+0.388
+Deviation
+0.18181818181818182
+Beta
+13.000000000000004
+Lowest Energy
+-5.8296
+Iterations
+1100
+Accepted
+423
+Acceptance rate
+0.3845454545454545
+Deviation
+0.16666666666666666
+Beta
+12.25
+Lowest Energy
+-6.5496
+Iterations
+1200
+Accepted
+459
+Acceptance rate
+0.3825
+Deviation
+0.15384615384615385
+Beta
+15.200000000000003
+Lowest Energy
+-6.7145
+Iterations
+1300
+Accepted
+494
+Acceptance rate
+0.38
+Deviation
+0.14285714285714285
+Beta
+15.875000000000002
+Lowest Energy
+-6.4635
+Iterations
+1400
+Accepted
+527
+Acceptance rate
+0.37642857142857145
+Deviation
+0.13333333333333333
+Beta
+15.250000000000002
+Lowest Energy
+-7.0603
+Iterations
+1500
+Accepted
+567
+Acceptance rate
+0.378
+Deviation
+0.125
+Beta
+17.187500000000004
+Lowest Energy
+-7.3242
+Iterations
+1600
+Accepted
+598
+Acceptance rate
+0.37375
+Deviation
+0.11764705882352941
+Beta
+20.250000000000004
+Lowest Energy
+-7.727
+Iterations
+1700
+Accepted
+639
+Acceptance rate
+0.37588235294117645
+Deviation
+0.1111111111111111
+Beta
+22.075000000000003
+Lowest Energy
+-7.8416999999999994
+Iterations
+1800
+Accepted
+668
+Acceptance rate
+0.3711111111111111
+Deviation
+0.10526315789473684
+Beta
+21.275000000000006
+Lowest Energy
+-8.1396
+Iterations
+1900
+Accepted
+700
+Acceptance rate
+0.3684210526315789
+Deviation
+0.1
+Beta
+20.250000000000004
+Lowest Energy
+-8.1613
+Iterations
+2000
+Accepted
+739
+Acceptance rate
+0.3695
+Deviation
+0.09523809523809523
+Beta
+25.500000000000007
+Lowest Energy
+-8.082799999999999
+Iterations
+2100
+Accepted
+774
+Acceptance rate
+0.36857142857142855
+Deviation
+0.09090909090909091
+Beta
+23.825000000000003
+Lowest Energy
+-8.0811
+Iterations
+2200
+Accepted
+816
+Acceptance rate
+0.3709090909090909
+Deviation
+0.08695652173913043
+Beta
+23.525
+Lowest Energy
+-7.9455
+Iterations
+2300
+Accepted
+849
+Acceptance rate
+0.3691304347826087
+Deviation
+0.08333333333333333
+Beta
+24.825000000000003
+Lowest Energy
+-7.682500000000001
+Iterations
+2400
+Accepted
+894
+Acceptance rate
+0.3725
+Deviation
+0.08
+Beta
+25.55
+Lowest Energy
+-7.9681
+Iterations
+2500
+Accepted
+925
+Acceptance rate
+0.37
+Deviation
+0.07692307692307693
+Beta
+26.25
+Lowest Energy
+-8.1151
+Iterations
+2600
+Accepted
+970
+Acceptance rate
+0.3730769230769231
+Deviation
+0.07407407407407407
+Beta
+29.525000000000006
+Lowest Energy
+-7.9783
+Iterations
+2700
+Accepted
+1003
+Acceptance rate
+0.37148148148148147
+Deviation
+0.07142857142857142
+Beta
+31.625000000000007
+Lowest Energy
+-8.0524
+Iterations
+2800
+Accepted
+1028
+Acceptance rate
+0.36714285714285716
+Deviation
+0.06896551724137931
+Beta
+34.150000000000006
+Lowest Energy
+-7.9735
+Iterations
+2900
+Accepted
+1061
+Acceptance rate
+0.36586206896551726
+Deviation
+0.06666666666666667
+Beta
+30.612500000000004
+Lowest Energy
+-7.9211
+Iterations
+3000
+Accepted
+1092
+Acceptance rate
+0.364
+Deviation
+0.06451612903225806
+Beta
+34.625
+Lowest Energy
+-7.9465
+Iterations
+3100
+Accepted
+1121
+Acceptance rate
+0.36161290322580647
+Deviation
+0.0625
+Beta
+38.45
+Lowest Energy
+-8.1646
+Iterations
+3200
+Accepted
+1154
+Acceptance rate
+0.360625
+Deviation
+0.06060606060606061
+Beta
+40.05000000000001
+Lowest Energy
+-8.238
+Iterations
+3300
+Accepted
+1191
+Acceptance rate
+0.3609090909090909
+Deviation
+0.058823529411764705
+Beta
+35.900000000000006
+Lowest Energy
+-8.0229
+Iterations
+3400
+Accepted
+1218
+Acceptance rate
+0.35823529411764704
+Deviation
+0.05714285714285714
+Beta
+38.22500000000001
+Lowest Energy
+-8.2586
+Iterations
+3500
+Accepted
+1232
+Acceptance rate
+0.352
+Deviation
+0.05555555555555555
+Beta
+37.56250000000001
+Lowest Energy
+-8.3281
+Iterations
+3600
+Accepted
+1265
+Acceptance rate
+0.35138888888888886
+Deviation
+0.05405405405405406
+Beta
+37.25
+Lowest Energy
+-8.183499999999999
+Iterations
+3700
+Accepted
+1286
+Acceptance rate
+0.34756756756756757
+Deviation
+0.05263157894736842
+Beta
+45.65000000000001
+Lowest Energy
+-8.2134
+Iterations
+3800
+Accepted
+1319
+Acceptance rate
+0.34710526315789475
+Deviation
+0.05128205128205128
+Beta
+44.95000000000001
+Lowest Energy
+-8.301400000000001
+Iterations
+3900
+Accepted
+1345
+Acceptance rate
+0.34487179487179487
+Deviation
+0.05
+Beta
+45.61250000000001
+Lowest Energy
+-8.2985
+Iterations
+4000
+Accepted
+1383
+Acceptance rate
+0.34575
+Deviation
+0.04878048780487805
+Beta
+46.25000000000001
+Lowest Energy
+-8.3169
+Iterations
+4100
+Accepted
+1412
+Acceptance rate
+0.344390243902439
+Deviation
+0.047619047619047616
+Beta
+44.300000000000004
+Lowest Energy
+-8.3811
+Iterations
+4200
+Accepted
+1448
+Acceptance rate
+0.34476190476190477
+Deviation
+0.046511627906976744
+Beta
+52.17500000000001
+Lowest Energy
+-8.3274
+Iterations
+4300
+Accepted
+1454
+Acceptance rate
+0.33813953488372095
+Deviation
+0.045454545454545456
+Beta
+48.550000000000004
+Lowest Energy
+-8.3854
+Iterations
+4400
+Accepted
+1488
+Acceptance rate
+0.3381818181818182
+Deviation
+0.044444444444444446
+Beta
+48.550000000000004
+Lowest Energy
+-8.1865
+Iterations
+4500
+Accepted
+1526
+Acceptance rate
+0.3391111111111111
+Deviation
+0.043478260869565216
+Beta
+50.750000000000014
+Lowest Energy
+-8.4297
+Iterations
+4600
+Accepted
+1549
+Acceptance rate
+0.3367391304347826
+Deviation
+0.0425531914893617
+Beta
+57.600000000000016
+Lowest Energy
+-8.440900000000001
+Iterations
+4700
+Accepted
+1576
+Acceptance rate
+0.3353191489361702
+Deviation
+0.041666666666666664
+Beta
+49.42500000000001
+Lowest Energy
+-8.534600000000001
+Iterations
+4800
+Accepted
+1597
+Acceptance rate
+0.33270833333333333
+Deviation
+0.04081632653061224
+Beta
+49.85
+Lowest Energy
+-8.4714
+Iterations
+4900
+Accepted
+1632
+Acceptance rate
+0.3330612244897959
+Deviation
+0.04
+Beta
+61.27500000000001
+Lowest Energy
+-8.4334
+Iterations
+5000
+Accepted
+1658
+Acceptance rate
+0.3316
+Deviation
+0.0392156862745098
+Beta
+61.25000000000001
+Lowest Energy
+-8.468499999999999
+Iterations
+5100
+Accepted
+1683
+Acceptance rate
+0.33
+Deviation
+0.038461538461538464
+Beta
+63.725000000000016
+Lowest Energy
+-8.5426
+Iterations
+5200
+Accepted
+1706
+Acceptance rate
+0.3280769230769231
+Deviation
+0.03773584905660377
+Beta
+53.25
+Lowest Energy
+-8.5398
+Iterations
+5300
+Accepted
+1732
+Acceptance rate
+0.3267924528301887
+Deviation
+0.037037037037037035
+Beta
+55.575
+Lowest Energy
+-8.462
+Iterations
+5400
+Accepted
+1766
+Acceptance rate
+0.327037037037037
+Deviation
+0.03636363636363636
+Beta
+55.25
+Lowest Energy
+-8.3226
+Iterations
+5500
+Accepted
+1790
+Acceptance rate
+0.32545454545454544
+Deviation
+0.03571428571428571
+Beta
+61.75000000000001
+Lowest Energy
+-8.311
+Iterations
+5600
+Accepted
+1806
+Acceptance rate
+0.3225
+Deviation
+0.03508771929824561
+Beta
+59.35000000000001
+Lowest Energy
+-8.3542
+Iterations
+5700
+Accepted
+1834
+Acceptance rate
+0.3217543859649123
+Deviation
+0.034482758620689655
+Beta
+61.8125
+Lowest Energy
+-8.556899999999999
+Iterations
+5800
+Accepted
+1860
+Acceptance rate
+0.32068965517241377
+Deviation
+0.03389830508474576
+Beta
+70.85000000000002
+Lowest Energy
+-8.5043
+Iterations
+5900
+Accepted
+1869
+Acceptance rate
+0.31677966101694915
+Deviation
+0.03333333333333333
+Beta
+60.25
+Lowest Energy
+-8.501100000000001
+Iterations
+6000
+Accepted
+1895
+Acceptance rate
+0.31583333333333335
+Deviation
+0.03278688524590164
+Beta
+74.75000000000001
+Lowest Energy
+-8.405100000000001
+Iterations
+6100
+Accepted
+1921
+Acceptance rate
+0.31491803278688524
+Deviation
+0.03225806451612903
+Beta
+63.775000000000006
+Lowest Energy
+-8.4363
+Iterations
+6200
+Accepted
+1948
+Acceptance rate
+0.3141935483870968
+Deviation
+0.031746031746031744
+Beta
+66.35000000000001
+Lowest Energy
+-8.4146
+Iterations
+6300
+Accepted
+1985
+Acceptance rate
+0.31507936507936507
+Deviation
+0.03125
+Beta
+71.3375
+Lowest Energy
+-8.4698
+Iterations
+6400
+Accepted
+2019
+Acceptance rate
+0.31546875
+Deviation
+0.03076923076923077
+Beta
+78.05000000000001
+Lowest Energy
+-8.5339
+Iterations
+6500
+Accepted
+2025
+Acceptance rate
+0.31153846153846154
+Deviation
+0.030303030303030304
+Beta
+67.0625
+Lowest Energy
+-8.5517
+Iterations
+6600
+Accepted
+2038
+Acceptance rate
+0.3087878787878788
+Deviation
+0.029850746268656716
+Beta
+82.10000000000001
+Lowest Energy
+-8.5153
+Iterations
+6700
+Accepted
+2062
+Acceptance rate
+0.30776119402985075
+Deviation
+0.029411764705882353
+Beta
+69.92500000000001
+Lowest Energy
+-8.6148
+Iterations
+6800
+Accepted
+2062
+Acceptance rate
+0.30323529411764705
+Deviation
+0.028985507246376812
+Beta
+70.95
+Lowest Energy
+-8.6148
+Iterations
+6900
+Accepted
+2073
+Acceptance rate
+0.30043478260869566
+Deviation
+0.02857142857142857
+Beta
+71.97500000000001
+Lowest Energy
+-8.6094
+Iterations
+7000
+Accepted
+2099
+Acceptance rate
+0.2998571428571429
+Deviation
+0.028169014084507043
+Beta
+73.0
+Lowest Energy
+-8.5885
+Iterations
+7100
+Accepted
+2117
+Acceptance rate
+0.298169014084507
+Deviation
+0.027777777777777776
+Beta
+83.78750000000002
+Lowest Energy
+-8.5397
+Iterations
+7200
+Accepted
+2130
+Acceptance rate
+0.29583333333333334
+Deviation
+0.0273972602739726
+Beta
+79.55000000000001
+Lowest Energy
+-8.554400000000001
+Iterations
+7300
+Accepted
+2148
+Acceptance rate
+0.29424657534246573
+Deviation
+0.02702702702702703
+Beta
+76.075
+Lowest Energy
+-8.5214
+Iterations
+7400
+Accepted
+2168
+Acceptance rate
+0.292972972972973
+Deviation
+0.02666666666666667
+Beta
+88.20000000000002
+Lowest Energy
+-8.5192
+Iterations
+7500
+Accepted
+2168
+Acceptance rate
+0.2890666666666667
+Deviation
+0.02631578947368421
+Beta
+93.12500000000001
+Lowest Energy
+-8.5192
+Iterations
+7600
+Accepted
+2168
+Acceptance rate
+0.28526315789473683
+Deviation
+0.025974025974025976
+Beta
+89.60000000000001
+Lowest Energy
+-8.5192
+Iterations
+7700
+Accepted
+2168
+Acceptance rate
+0.28155844155844156
+Deviation
+0.02564102564102564
+Beta
+81.13749999999999
+Lowest Energy
+-8.5192
+Iterations
+7800
+Accepted
+2177
+Acceptance rate
+0.2791025641025641
+Deviation
+0.02531645569620253
+Beta
+94.85000000000001
+Lowest Energy
+-8.5709
+Iterations
+7900
+Accepted
+2184
+Acceptance rate
+0.27645569620253163
+Deviation
+0.025
+Beta
+96.05000000000003
+Lowest Energy
+-8.5783
+Iterations
+8000
+Accepted
+2188
+Acceptance rate
+0.2735
+Deviation
+0.024691358024691357
+Beta
+95.25000000000003
+Lowest Energy
+-8.5923
+Iterations
+8100
+Accepted
+2201
+Acceptance rate
+0.2717283950617284
+Deviation
+0.024390243902439025
+Beta
+90.35000000000002
+Lowest Energy
+-8.5765
+Iterations
+8200
+Accepted
+2209
+Acceptance rate
+0.26939024390243904
+Deviation
+0.024096385542168676
+Beta
+96.57500000000002
+Lowest Energy
+-8.6214
+Iterations
+8300
+Accepted
+2213
+Acceptance rate
+0.2666265060240964
+Deviation
+0.023809523809523808
+Beta
+93.5875
+Lowest Energy
+-8.6442
+Iterations
+8400
+Accepted
+2213
+Acceptance rate
+0.26345238095238094
+Deviation
+0.023529411764705882
+Beta
+98.90000000000002
+Lowest Energy
+-8.6442
+Iterations
+8500
+Accepted
+2222
+Acceptance rate
+0.26141176470588234
+Deviation
+0.023255813953488372
+Beta
+88.375
+Lowest Energy
+-8.6349
+Iterations
+8600
+Accepted
+2224
+Acceptance rate
+0.2586046511627907
+Deviation
+0.022988505747126436
+Beta
+88.32500000000002
+Lowest Energy
+-8.6172
+Iterations
+8700
+Accepted
+2226
+Acceptance rate
+0.2558620689655172
+Deviation
+0.022727272727272728
+Beta
+101.30000000000001
+Lowest Energy
+-8.6585
+Iterations
+8800
+Accepted
+2226
+Acceptance rate
+0.25295454545454543
+Deviation
+0.02247191011235955
+Beta
+89.25
+Lowest Energy
+-8.6585
+Iterations
+8900
+Accepted
+2236
+Acceptance rate
+0.2512359550561798
+Deviation
+0.022222222222222223
+Beta
+98.03750000000001
+Lowest Energy
+-8.616299999999999
+Iterations
+9000
+Accepted
+2262
+Acceptance rate
+0.25133333333333335
+Deviation
+0.02197802197802198
+Beta
+107.00000000000001
+Lowest Energy
+-8.5454
+Iterations
+9100
+Accepted
+2270
+Acceptance rate
+0.24945054945054945
+Deviation
+0.021739130434782608
+Beta
+108.17500000000003
+Lowest Energy
+-8.538
+Iterations
+9200
+Accepted
+2285
+Acceptance rate
+0.2483695652173913
+Deviation
+0.021505376344086023
+Beta
+110.50000000000003
+Lowest Energy
+-8.6001
+Iterations
+9300
+Accepted
+2302
+Acceptance rate
+0.2475268817204301
+Deviation
+0.02127659574468085
+Beta
+98.9
+Lowest Energy
+-8.6009
+Iterations
+9400
+Accepted
+2303
+Acceptance rate
+0.245
+Deviation
+0.021052631578947368
+Beta
+110.52500000000002
+Lowest Energy
+-8.5916
+Iterations
+9500
+Accepted
+2304
+Acceptance rate
+0.24252631578947367
+Deviation
+0.020833333333333332
+Beta
+116.43750000000003
+Lowest Energy
+-8.593900000000001
+Iterations
+9600
+Accepted
+2306
+Acceptance rate
+0.24020833333333333
+Deviation
+0.020618556701030927
+Beta
+109.25
+Lowest Energy
+-8.5675
+Iterations
+9700
+Accepted
+2307
+Acceptance rate
+0.23783505154639176
+Deviation
+0.02040816326530612
+Beta
+115.22500000000002
+Lowest Energy
+-8.622
+Iterations
+9800
+Accepted
+2307
+Acceptance rate
+0.23540816326530611
+Deviation
+0.020202020202020204
+Beta
+105.37500000000001
+Lowest Energy
+-8.622
+Iterations
+9900
+Accepted
+2307
+Acceptance rate
+0.23303030303030303
+Deviation
+0.02
+Beta
+121.28750000000002
+Lowest Energy
+-8.622
+Iterations
+10000
+Accepted
+2307
+Acceptance rate
+0.2307
+Deviation
+0.019801980198019802
+Beta
+116.25000000000001
+Lowest Energy
+-8.622
+Iterations
+0
+Accepted
+0
+Deviation
+2.0
+Beta
+1.25
+Lowest Energy
+-0.7541
+Iterations
+100
+Accepted
+73
+Acceptance rate
+0.73
+Deviation
+1.0
+Beta
+2.45
+Lowest Energy
+1.4143999999999999
+Iterations
+200
+Accepted
+131
+Acceptance rate
+0.655
+Deviation
+0.6666666666666666
+Beta
+3.6000000000000005
+Lowest Energy
+-0.5901000000000001
+Iterations
+300
+Accepted
+175
+Acceptance rate
+0.5833333333333334
+Deviation
+0.5
+Beta
+4.812500000000001
+Lowest Energy
+-1.695
+Iterations
+400
+Accepted
+216
+Acceptance rate
+0.54
+Deviation
+0.4
+Beta
+5.750000000000001
+Lowest Energy
+-2.3392
+Iterations
+500
+Accepted
+248
+Acceptance rate
+0.496
+Deviation
+0.3333333333333333
+Beta
+7.000000000000001
+Lowest Energy
+-3.9508
+Iterations
+600
+Accepted
+281
+Acceptance rate
+0.4683333333333333
+Deviation
+0.2857142857142857
+Beta
+7.250000000000001
+Lowest Energy
+-3.7039
+Iterations
+700
+Accepted
+316
+Acceptance rate
+0.4514285714285714
+Deviation
+0.25
+Beta
+9.387500000000003
+Lowest Energy
+-4.4475
+Iterations
+800
+Accepted
+358
+Acceptance rate
+0.4475
+Deviation
+0.2222222222222222
+Beta
+10.650000000000002
+Lowest Energy
+-4.4813
+Iterations
+900
+Accepted
+398
+Acceptance rate
+0.44222222222222224
+Deviation
+0.2
+Beta
+12.050000000000002
+Lowest Energy
+-6.0824
+Iterations
+1000
+Accepted
+433
+Acceptance rate
+0.433
+Deviation
+0.18181818181818182
+Beta
+13.000000000000004
+Lowest Energy
+-6.7146
+Iterations
+1100
+Accepted
+452
+Acceptance rate
+0.4109090909090909
+Deviation
+0.16666666666666666
+Beta
+14.587500000000002
+Lowest Energy
+-6.6362000000000005
+Iterations
+1200
+Accepted
+486
+Acceptance rate
+0.405
+Deviation
+0.15384615384615385
+Beta
+15.500000000000004
+Lowest Energy
+-6.8401
+Iterations
+1300
+Accepted
+516
+Acceptance rate
+0.39692307692307693
+Deviation
+0.14285714285714285
+Beta
+15.225000000000001
+Lowest Energy
+-7.3533
+Iterations
+1400
+Accepted
+546
+Acceptance rate
+0.39
+Deviation
+0.13333333333333333
+Beta
+18.225
+Lowest Energy
+-7.305
+Iterations
+1500
+Accepted
+582
+Acceptance rate
+0.388
+Deviation
+0.125
+Beta
+17.75
+Lowest Energy
+-7.1536
+Iterations
+1600
+Accepted
+626
+Acceptance rate
+0.39125
+Deviation
+0.11764705882352941
+Beta
+18.650000000000002
+Lowest Energy
+-7.2275
+Iterations
+1700
+Accepted
+670
+Acceptance rate
+0.3941176470588235
+Deviation
+0.1111111111111111
+Beta
+18.25
+Lowest Energy
+-7.1769
+Iterations
+1800
+Accepted
+705
+Acceptance rate
+0.39166666666666666
+Deviation
+0.10526315789473684
+Beta
+22.400000000000002
+Lowest Energy
+-7.170999999999999
+Iterations
+1900
+Accepted
+740
+Acceptance rate
+0.3894736842105263
+Deviation
+0.1
+Beta
+22.387500000000003
+Lowest Energy
+-7.6524
+Iterations
+2000
+Accepted
+772
+Acceptance rate
+0.386
+Deviation
+0.09523809523809523
+Beta
+24.250000000000004
+Lowest Energy
+-7.8726
+Iterations
+2100
+Accepted
+798
+Acceptance rate
+0.38
+Deviation
+0.09090909090909091
+Beta
+24.875000000000004
+Lowest Energy
+-8.213799999999999
+Iterations
+2200
+Accepted
+821
+Acceptance rate
+0.37318181818181817
+Deviation
+0.08695652173913043
+Beta
+26.275000000000006
+Lowest Energy
+-7.786300000000001
+Iterations
+2300
+Accepted
+856
+Acceptance rate
+0.37217391304347824
+Deviation
+0.08333333333333333
+Beta
+28.85000000000001
+Lowest Energy
+-7.7938
+Iterations
+2400
+Accepted
+890
+Acceptance rate
+0.37083333333333335
+Deviation
+0.08
+Beta
+29.150000000000006
+Lowest Energy
+-8.1791
+Iterations
+2500
+Accepted
+926
+Acceptance rate
+0.3704
+Deviation
+0.07692307692307693
+Beta
+30.625000000000004
+Lowest Energy
+-7.8901
+Iterations
+2600
+Accepted
+965
+Acceptance rate
+0.37115384615384617
+Deviation
+0.07407407407407407
+Beta
+31.800000000000004
+Lowest Energy
+-7.9056999999999995
+Iterations
+2700
+Accepted
+1004
+Acceptance rate
+0.3718518518518519
+Deviation
+0.07142857142857142
+Beta
+32.300000000000004
+Lowest Energy
+-8.191600000000001
+Iterations
+2800
+Accepted
+1033
+Acceptance rate
+0.36892857142857144
+Deviation
+0.06896551724137931
+Beta
+31.700000000000003
+Lowest Energy
+-8.0631
+Iterations
+2900
+Accepted
+1083
+Acceptance rate
+0.37344827586206897
+Deviation
+0.06666666666666667
+Beta
+35.325
+Lowest Energy
+-8.2015
+Iterations
+3000
+Accepted
+1107
+Acceptance rate
+0.369
+Deviation
+0.06451612903225806
+Beta
+34.625
+Lowest Energy
+-8.1814
+Iterations
+3100
+Accepted
+1143
+Acceptance rate
+0.36870967741935484
+Deviation
+0.0625
+Beta
+39.22500000000001
+Lowest Energy
+-8.0898
+Iterations
+3200
+Accepted
+1175
+Acceptance rate
+0.3671875
+Deviation
+0.06060606060606061
+Beta
+34.85
+Lowest Energy
+-8.2859
+Iterations
+3300
+Accepted
+1208
+Acceptance rate
+0.3660606060606061
+Deviation
+0.058823529411764705
+Beta
+40.02500000000001
+Lowest Energy
+-8.219999999999999
+Iterations
+3400
+Accepted
+1238
+Acceptance rate
+0.36411764705882355
+Deviation
+0.05714285714285714
+Beta
+37.375
+Lowest Energy
+-8.252600000000001
+Iterations
+3500
+Accepted
+1282
+Acceptance rate
+0.36628571428571427
+Deviation
+0.05555555555555555
+Beta
+40.18750000000001
+Lowest Energy
+-8.3238
+Iterations
+3600
+Accepted
+1316
+Acceptance rate
+0.3655555555555556
+Deviation
+0.05405405405405406
+Beta
+41.75000000000001
+Lowest Energy
+-8.2924
+Iterations
+3700
+Accepted
+1344
+Acceptance rate
+0.36324324324324325
+Deviation
+0.05263157894736842
+Beta
+44.2625
+Lowest Energy
+-8.1614
+Iterations
+3800
+Accepted
+1387
+Acceptance rate
+0.365
+Deviation
+0.05128205128205128
+Beta
+45.425000000000004
+Lowest Energy
+-8.263
+Iterations
+3900
+Accepted
+1421
+Acceptance rate
+0.36435897435897435
+Deviation
+0.05
+Beta
+42.2
+Lowest Energy
+-8.437899999999999
+Iterations
+4000
+Accepted
+1455
+Acceptance rate
+0.36375
+Deviation
+0.04878048780487805
+Beta
+43.75
+Lowest Energy
+-8.3612
+Iterations
+4100
+Accepted
+1491
+Acceptance rate
+0.36365853658536584
+Deviation
+0.047619047619047616
+Beta
+48.400000000000006
+Lowest Energy
+-8.607099999999999
+Iterations
+4200
+Accepted
+1527
+Acceptance rate
+0.36357142857142855
+Deviation
+0.046511627906976744
+Beta
+50.07500000000001
+Lowest Energy
+-8.5557
+Iterations
+4300
+Accepted
+1550
+Acceptance rate
+0.36046511627906974
+Deviation
+0.045454545454545456
+Beta
+45.862500000000004
+Lowest Energy
+-8.4985
+Iterations
+4400
+Accepted
+1582
+Acceptance rate
+0.35954545454545456
+Deviation
+0.044444444444444446
+Beta
+47.45
+Lowest Energy
+-8.555900000000001
+Iterations
+4500
+Accepted
+1610
+Acceptance rate
+0.35777777777777775
+Deviation
+0.043478260869565216
+Beta
+49.06250000000001
+Lowest Energy
+-8.6213
+Iterations
+4600
+Accepted
+1626
+Acceptance rate
+0.35347826086956524
+Deviation
+0.0425531914893617
+Beta
+57.02500000000001
+Lowest Energy
+-8.5657
+Iterations
+4700
+Accepted
+1649
+Acceptance rate
+0.35085106382978726
+Deviation
+0.041666666666666664
+Beta
+55.30000000000001
+Lowest Energy
+-8.4944
+Iterations
+4800
+Accepted
+1687
+Acceptance rate
+0.3514583333333333
+Deviation
+0.04081632653061224
+Beta
+50.45
+Lowest Energy
+-8.5516
+Iterations
+4900
+Accepted
+1721
+Acceptance rate
+0.35122448979591836
+Deviation
+0.04
+Beta
+50.862500000000004
+Lowest Energy
+-8.4825
+Iterations
+5000
+Accepted
+1756
+Acceptance rate
+0.3512
+Deviation
+0.0392156862745098
+Beta
+55.62500000000001
+Lowest Energy
+-8.304
+Iterations
+5100
+Accepted
+1790
+Acceptance rate
+0.3509803921568627
+Deviation
+0.038461538461538464
+Beta
+59.90000000000001
+Lowest Energy
+-8.344899999999999
+Iterations
+5200
+Accepted
+1809
+Acceptance rate
+0.3478846153846154
+Deviation
+0.03773584905660377
+Beta
+54.55
+Lowest Energy
+-8.2592
+Iterations
+5300
+Accepted
+1828
+Acceptance rate
+0.3449056603773585
+Deviation
+0.037037037037037035
+Beta
+64.18750000000001
+Lowest Energy
+-8.2774
+Iterations
+5400
+Accepted
+1852
+Acceptance rate
+0.34296296296296297
+Deviation
+0.03636363636363636
+Beta
+66.05000000000001
+Lowest Energy
+-8.4722
+Iterations
+5500
+Accepted
+1868
+Acceptance rate
+0.3396363636363636
+Deviation
+0.03571428571428571
+Beta
+68.62500000000001
+Lowest Energy
+-8.585
+Iterations
+5600
+Accepted
+1876
+Acceptance rate
+0.335
+Deviation
+0.03508771929824561
+Beta
+58.650000000000006
+Lowest Energy
+-8.5513
+Iterations
+5700
+Accepted
+1920
+Acceptance rate
+0.3368421052631579
+Deviation
+0.034482758620689655
+Beta
+68.22500000000002
+Lowest Energy
+-8.4025
+Iterations
+5800
+Accepted
+1944
+Acceptance rate
+0.3351724137931035
+Deviation
+0.03389830508474576
+Beta
+59.97500000000001
+Lowest Energy
+-8.494900000000001
+Iterations
+5900
+Accepted
+1973
+Acceptance rate
+0.33440677966101695
+Deviation
+0.03333333333333333
+Beta
+72.05000000000001
+Lowest Energy
+-8.4158
+Iterations
+6000
+Accepted
+1988
+Acceptance rate
+0.3313333333333333
+Deviation
+0.03278688524590164
+Beta
+73.25000000000001
+Lowest Energy
+-8.4199
+Iterations
+6100
+Accepted
+2004
+Acceptance rate
+0.3285245901639344
+Deviation
+0.03225806451612903
+Beta
+70.6375
+Lowest Energy
+-8.4497
+Iterations
+6200
+Accepted
+2030
+Acceptance rate
+0.32741935483870965
+Deviation
+0.031746031746031744
+Beta
+67.9
+Lowest Energy
+-8.4999
+Iterations
+6300
+Accepted
+2038
+Acceptance rate
+0.3234920634920635
+Deviation
+0.03125
+Beta
+77.63750000000002
+Lowest Energy
+-8.4489
+Iterations
+6400
+Accepted
+2058
+Acceptance rate
+0.3215625
+Deviation
+0.03076923076923077
+Beta
+75.65
+Lowest Energy
+-8.5302
+Iterations
+6500
+Accepted
+2078
+Acceptance rate
+0.3196923076923077
+Deviation
+0.030303030303030304
+Beta
+71.125
+Lowest Energy
+-8.5256
+Iterations
+6600
+Accepted
+2099
+Acceptance rate
+0.31803030303030305
+Deviation
+0.029850746268656716
+Beta
+82.10000000000001
+Lowest Energy
+-8.556799999999999
+Iterations
+6700
+Accepted
+2115
+Acceptance rate
+0.3156716417910448
+Deviation
+0.029411764705882353
+Beta
+79.13750000000002
+Lowest Energy
+-8.6387
+Iterations
+6800
+Accepted
+2116
+Acceptance rate
+0.3111764705882353
+Deviation
+0.028985507246376812
+Beta
+76.05000000000001
+Lowest Energy
+-8.638300000000001
+Iterations
+6900
+Accepted
+2116
+Acceptance rate
+0.30666666666666664
+Deviation
+0.02857142857142857
+Beta
+74.5625
+Lowest Energy
+-8.638300000000001
+Iterations
+7000
+Accepted
+2116
+Acceptance rate
+0.30228571428571427
+Deviation
+0.028169014084507043
+Beta
+72.125
+Lowest Energy
+-8.638300000000001
+Iterations
+7100
+Accepted
+2118
+Acceptance rate
+0.2983098591549296
+Deviation
+0.027777777777777776
+Beta
+74.025
+Lowest Energy
+-8.5679
+Iterations
+7200
+Accepted
+2145
+Acceptance rate
+0.29791666666666666
+Deviation
+0.0273972602739726
+Beta
+79.55000000000001
+Lowest Energy
+-8.604700000000001
+Iterations
+7300
+Accepted
+2151
+Acceptance rate
+0.29465753424657537
+Deviation
+0.02702702702702703
+Beta
+78.8125
+Lowest Energy
+-8.5483
+Iterations
+7400
+Accepted
+2173
+Acceptance rate
+0.29364864864864865
+Deviation
+0.02666666666666667
+Beta
+75.25
+Lowest Energy
+-8.546
+Iterations
+7500
+Accepted
+2195
+Acceptance rate
+0.2926666666666667
+Deviation
+0.02631578947368421
+Beta
+86.56250000000001
+Lowest Energy
+-8.5669
+Iterations
+7600
+Accepted
+2226
+Acceptance rate
+0.29289473684210526
+Deviation
+0.025974025974025976
+Beta
+89.60000000000001
+Lowest Energy
+-8.562000000000001
+Iterations
+7700
+Accepted
+2243
+Acceptance rate
+0.2912987012987013
+Deviation
+0.02564102564102564
+Beta
+81.13749999999999
+Lowest Energy
+-8.491
+Iterations
+7800
+Accepted
+2265
+Acceptance rate
+0.2903846153846154
+Deviation
+0.02531645569620253
+Beta
+81.20000000000002
+Lowest Energy
+-8.424
+Iterations
+7900
+Accepted
+2290
+Acceptance rate
+0.289873417721519
+Deviation
+0.025
+Beta
+96.05000000000003
+Lowest Energy
+-8.419
+Iterations
+8000
+Accepted
+2303
+Acceptance rate
+0.287875
+Deviation
+0.024691358024691357
+Beta
+90.25000000000003
+Lowest Energy
+-8.5319
+Iterations
+8100
+Accepted
+2318
+Acceptance rate
+0.28617283950617284
+Deviation
+0.024390243902439025
+Beta
+92.375
+Lowest Energy
+-8.537700000000001
+Iterations
+8200
+Accepted
+2323
+Acceptance rate
+0.28329268292682924
+Deviation
+0.024096385542168676
+Beta
+101.70000000000002
+Lowest Energy
+-8.6463
+Iterations
+8300
+Accepted
+2329
+Acceptance rate
+0.2806024096385542
+Deviation
+0.023809523809523808
+Beta
+101.88750000000002
+Lowest Energy
+-8.5762
+Iterations
+8400
+Accepted
+2339
+Acceptance rate
+0.27845238095238095
+Deviation
+0.023529411764705882
+Beta
+86.30000000000001
+Lowest Energy
+-8.624
+Iterations
+8500
+Accepted
+2339
+Acceptance rate
+0.2751764705882353
+Deviation
+0.023255813953488372
+Beta
+88.375
+Lowest Energy
+-8.624
+Iterations
+8600
+Accepted
+2358
+Acceptance rate
+0.2741860465116279
+Deviation
+0.022988505747126436
+Beta
+102.30000000000003
+Lowest Energy
+-8.6292
+Iterations
+8700
+Accepted
+2369
+Acceptance rate
+0.27229885057471265
+Deviation
+0.022727272727272728
+Beta
+88.25000000000001
+Lowest Energy
+-8.6887
+Iterations
+8800
+Accepted
+2369
+Acceptance rate
+0.2692045454545455
+Deviation
+0.02247191011235955
+Beta
+93.65
+Lowest Energy
+-8.6887
+Iterations
+8900
+Accepted
+2372
+Acceptance rate
+0.2665168539325843
+Deviation
+0.022222222222222223
+Beta
+104.7125
+Lowest Energy
+-8.6667
+Iterations
+9000
+Accepted
+2380
+Acceptance rate
+0.2644444444444444
+Deviation
+0.02197802197802198
+Beta
+92.375
+Lowest Energy
+-8.663499999999999
+Iterations
+9100
+Accepted
+2396
+Acceptance rate
+0.2632967032967033
+Deviation
+0.021739130434782608
+Beta
+92.25
+Lowest Energy
+-8.6429
+Iterations
+9200
+Accepted
+2396
+Acceptance rate
+0.2604347826086956
+Deviation
+0.021505376344086023
+Beta
+103.60000000000001
+Lowest Energy
+-8.6429
+Iterations
+9300
+Accepted
+2396
+Acceptance rate
+0.25763440860215053
+Deviation
+0.02127659574468085
+Beta
+95.4125
+Lowest Energy
+-8.6429
+Iterations
+9400
+Accepted
+2403
+Acceptance rate
+0.25563829787234044
+Deviation
+0.021052631578947368
+Beta
+103.47500000000002
+Lowest Energy
+-8.6458
+Iterations
+9500
+Accepted
+2406
+Acceptance rate
+0.25326315789473686
+Deviation
+0.020833333333333332
+Beta
+101.00000000000001
+Lowest Energy
+-8.626000000000001
+Iterations
+9600
+Accepted
+2414
+Acceptance rate
+0.25145833333333334
+Deviation
+0.020618556701030927
+Beta
+109.25
+Lowest Energy
+-8.6017
+Iterations
+9700
+Accepted
+2416
+Acceptance rate
+0.2490721649484536
+Deviation
+0.02040816326530612
+Beta
+114.01250000000003
+Lowest Energy
+-8.5997
+Iterations
+9800
+Accepted
+2419
+Acceptance rate
+0.24683673469387754
+Deviation
+0.020202020202020204
+Beta
+113.95000000000002
+Lowest Energy
+-8.6232
+Iterations
+9900
+Accepted
+2420
+Acceptance rate
+0.24444444444444444
+Deviation
+0.02
+Beta
+111.38750000000002
+Lowest Energy
+-8.620000000000001
+Iterations
+10000
+Accepted
+2428
+Acceptance rate
+0.2428
+Deviation
+0.019801980198019802
+Beta
+120.00000000000001
+Lowest Energy
+-8.6336
