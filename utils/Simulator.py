@@ -130,7 +130,7 @@ class Simulator:
         average_x = Simulator.MeasureX(counts_x)
         return average_x
 
-    def correspondance_with_error (self, circuit_quantum, M=2, shots=20000):
+    def correlation_with_error (self, circuit_quantum, M=2, shots=20000):
         self.M = M
         self.shots = shots
         circuit = circuit_quantum.copy()
@@ -147,13 +147,13 @@ class Simulator:
             corr_zz.append(circ_zz)
         result_zz = execute(corr_zz, self.machine, shots = self.shots/self.M).result().get_counts()
 
-        res = [list(self.correspondance(a).values()) for a in result_zz]
+        res = [list(self.correlation(a).values()) for a in result_zz]
         res = np.array(res)
         return np.mean(res, axis=0)
 
         # print(len(result_zz))
 
-    def correspondance(self, result):
+    def correlation(self, result):
         self.correlation_list = list()
         dic = {1:0, 2:0, 3:0, 4:0, 5:0, 6:0}
         size = 7
@@ -174,7 +174,7 @@ class Simulator:
 
 
     
-    def CalculateCorrespondance(self, circuit_quantum):
+    def CalculateCorrelation(self, circuit_quantum):
         self.correlation_list = list()
         self.correlation_circuit = circuit_quantum.copy()
         self.size = len(list(self.hyperbolic_structure.boundary_qubits))
@@ -198,8 +198,8 @@ class Simulator:
                         self.correlation_list.append(corr)
                         self.dic[distance] = corr + self.dic[abs(distance)]
 
-    def plotCorrespondance(self, circuit_quantum):
-        self.CalculateCorrespondance(circuit_quantum)
+    def plotCorrelation(self, circuit_quantum):
+        self.CalculateCorrelation(circuit_quantum)
         corLis = list()
         cordLis = list()
         for i in self.dic:
