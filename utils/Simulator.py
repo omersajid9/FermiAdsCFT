@@ -167,7 +167,9 @@ class Simulator:
                         corr = arr[i%size] * arr[j%size] * result[count]/ (self.shots/self.M)
                         self.correlation_list.append(corr)
                         dic[distance] = corr + dic[abs(distance)]
-        return dic
+        re = {key: value / size for key, value in dic.items()}
+        # print(re)
+        return re
 
 
 
